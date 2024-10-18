@@ -58,7 +58,7 @@ misc_lockpick_simple_name { Простая отмычка }
 
 misc_lockpick_simple_description { Теперь нет замков, которые я не могу взломать. }
 
-misc_worldmap_name { Грубая карта Дровы }
+misc_worldmap_name { Грубая карта Дрова }
 
 misc_mapink_name { Чернила }
 
@@ -500,7 +500,7 @@ key_harvey_description { Найден в Неметоне. Выглядит ст
 
 misc_currency_name { Монеты }
 
-misc_currency_description { Валюта Дровы. }
+misc_currency_description { Валюта Дрова. }
 
 weapon_barehands_name { Кулаки }
 
@@ -716,7 +716,7 @@ cons_flow_bloodRage_description { Тяжелая атака, наносящая 
 
 item_rubin_name { Рубин }
 
-item_atlanterAcademyText_name { Путешествие ушедшего в Дрову }
+item_atlanterAcademyText_name { Путешествие ушедшего в Дрова}
 
 cons_flow_blink_name { Туманный шаг }
 
@@ -1182,11 +1182,11 @@ item_mumbertDiarrhoea_description { От Гумберта для Асмуса}
 
 item_marinatedmeatleg_name { Маринованная мясная рулька Тиаа}
 
-item_letterCityDungeon_0_name { Беспорядки в Дрове IV}
+item_letterCityDungeon_0_name { Беспорядки в Дрова IV}
 
-item_letterCityDungeon_1_name { Беспорядки в Дрове V }
+item_letterCityDungeon_1_name { Беспорядки в Дрова V }
 
-item_letterCityDungeon_2_name { Беспорядки в Дрове VI }
+item_letterCityDungeon_2_name { Беспорядки в Дрова VI }
 
 item_letterCityDungeon_3_name { Старые ноты }
 
@@ -1696,7 +1696,7 @@ misc_map_ruincamp_name { Карта лагеря выживших }
 
 misc_map_leuchtwald_name { Карта Первобытного леса }
 
-misc_worldmap_detailed_name { Карта Дровы }
+misc_worldmap_detailed_name { Карта Дрова }
 
 misc_worldmap_detailed_description { Нарисовано одним «Леру». }
 
@@ -1756,11 +1756,11 @@ item_letterAtlanter_OlafDiary_name { Старый дневник Олафа }
 
 item_letterAtlanter_ReijaAndMonko_name { Большая находка Рейи и Монко }
 
-item_letterAtlanter_Revolt1_name { Беспорядки в Дрове I }
+item_letterAtlanter_Revolt1_name { Беспорядки в Дрова I }
 
-item_letterAtlanter_Revolt2_name { Беспорядки в Дрове II }
+item_letterAtlanter_Revolt2_name { Беспорядки в Дрова II }
 
-item_letterAtlanter_Revolt3_name { Беспорядки в Дрове III }
+item_letterAtlanter_Revolt3_name { Беспорядки в Дрова III }
 
 item_letterAtlanter_RuneVessel_Nemeton_name { Руководство по руническим сосудам }
 
