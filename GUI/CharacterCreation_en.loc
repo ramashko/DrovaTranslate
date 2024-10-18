@@ -8,9 +8,9 @@ Souvenir { На память }
 
 SaveMode { Игровой режим }
 
-DefaultMode { Классический }
+DefaultMode { Классика }
 
-ImmersiveMode { Пизда }
+ImmersiveMode { Погружение }
 
 StoryMode { Исследователь }
 
