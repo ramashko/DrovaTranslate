@@ -704,7 +704,7 @@ cons_flow_execute_description { Вы наносите [WeaponDamagePercent] ур
 
 cons_flow_pierce_name { Пронзание }
 
-cons_flow_pierce_description { Вы прыгаете вперед и с помощью копья наносите несколько быстрых выпадов, которые наносят [WeaponDamagePercent] урона от оружия за удар противникам перед вами. }
+cons_flow_pierce_description { Вы прыгаете вперед и с помощью копья делаете несколько быстрых выпадов, которые наносят [WeaponDamagePercent] урона от оружия за удар противникам перед вами. }
 
 cons_flow_infection_name { Заражение }
 
@@ -712,7 +712,7 @@ cons_flow_infection_description { Вы наносите [WeaponDamagePercent] у
 
 cons_flow_bloodRage_name { Кровавое безумие }
 
-cons_flow_bloodRage_description { Тяжелая атака, наносящая [WeaponDamagePercent] урона оружием. Если вы убьете противника, пока активно Кровавое безумие, вы восстановите очки фокусировки для навыка. }
+cons_flow_bloodRage_description { Тяжелая атака, наносящая [WeaponDamagePercent] урона оружием. Если вы убьете противника под действием кровавого безумия, то восстановите очки фокуса для этого навыка. }
 
 item_rubin_name { Рубин }
 
@@ -1906,7 +1906,7 @@ weapon_sword_jendra_description { }
 
 flow_ricochet_name { Рикошет }
 
-flow_ricochet_description { Вы выпускаете снаряд, который наносит [WeaponDamagePercent] урона от оружия, прежде чем он срикошетит от цели и поразит дополнительных противников поблизости. }
+flow_ricochet_description { Вы выпускаете снаряд, который наносит [WeaponDamagePercent] урона от оружия, прежде чем он отрикошетит от цели и поразит других противников поблизости. }
 
 recipe_flow_ricochet_name { Способность: Рикошет }
 
