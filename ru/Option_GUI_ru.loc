@@ -2,17 +2,17 @@ Control { Управление }
 
 GameMode { Режим игры }
 
-default { Перезапустить }
+default { Сбросить }
 
 save { Сохранить }
 
-dont_save { Не сохраняться }
+dont_save { Не сохранять }
 
 cancel { Отмена }
 
-keyfield_popup { Ваши привязки были изменены. Хотите сохранить эту конфигурацию? }
+keyfield_popup { Назначенные клавиши изменились. Хотите сохранить эту конфигурацию? }
 
-keyfield_popup_conflict { Эта конфигурация содержит конфликтующие привязки и не может быть сохранена. Хотите продолжить без сохранения? }
+keyfield_popup_conflict { Эта конфигурация содержит конфликтующие клавиши и не может быть сохранена. Хотите продолжить без сохранения? }
 
 world { Мир }
 
@@ -20,7 +20,7 @@ category_dialog { Диалог }
 
 category_music { Музыка }
 
-category_guimenus { Меню GUI }
+category_guimenus { Интерфейс }
 
 category_shotcuts { Разное }
 
@@ -70,11 +70,11 @@ Title_KeyBinds { Управление }
 
 Language { Язык }
 
-Toggle_ShowHelp { Показать руководства }
+Toggle_ShowHelp { Показывать обучение }
 
 AutosaveInterval { Интервал автосохранения }
 
-Toggle_PickUpsToQuickbar { Автоматически назначать предметы непосредственно на панель быстрого доступа }
+Toggle_PickUpsToQuickbar { Автоматически назначать предметы на панель быстрого доступа }
 
 Toggle_PickUpsToQuickbar_Heal { Лечебные предметы }
 
@@ -136,7 +136,7 @@ Toggle_PickUpsToQuickbar_Torches { Факелы }
 
 Dropdown_FontSize { Размер шрифта }
 
-Dropdown_DialogSpeed ​​{ Скорость отображения текста }
+Dropdown_DialogSpeed { Скорость отображения текста }
 
 FontSize_Small { Нормальный }
 
@@ -144,11 +144,11 @@ FontSize_Medium { Большой }
 
 FontSize_Big { Очень большой }
 
-DialogSpeed_Instant { Мгновенно }
+DialogSpeed_Instant { Мгновенный }
 
-DialogSpeed_Fast { Быстро }
+DialogSpeed_Fast { Быстрый }
 
-DialogSpeed_Slow { Нормально }
+DialogSpeed_Slow { Нормальный }
 
 Toggle_GroundFog { Туман на земле }
 

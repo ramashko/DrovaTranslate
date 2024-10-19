@@ -26,7 +26,7 @@ health { Здоровье }
 
 healing { Восстанавливает [VALUE] вашего максимального здоровья. }
 
-learningpoints { LP }
+learningpoints { ОО }
 
 talentlearned { Изучен }
 
@@ -66,7 +66,7 @@ flowReg { Регенерация фокуса [VALUE] }
 
 armor { Броня [VALUE] }
 
-healAdditionalDescription { (Похожий предмет заменяет эффект баффа) }
+healAdditionalDescription { (Похожий предмет заменяет положительный эффект) }
 
 flowPhysical { Способность }
 

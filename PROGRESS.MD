@@ -293,13 +293,13 @@
 | Dialogues/Tests_ru.loc                        | Машинный перевод    |
 | Dialogues/WorldDialogueGreatTusk_ru.loc      | Машинный перевод    |
 | Dialogues/WorldDialogue_ru.loc                | Машинный перевод    |
-| GUI/AbilityMenu_ru.loc          | Машинный перевод    |
-| GUI/ChapterProgress_ru.loc      | Машинный перевод    |
-| GUI/CharacterCreation_ru.loc     | Машинный перевод    |
+| GUI/AbilityMenu_ru.loc          | ✅                  |
+| GUI/ChapterProgress_ru.loc      | ✅                  |
+| GUI/CharacterCreation_ru.loc     | ✅                  |
 | GUI/Fishing_ru.loc              | Машинный перевод    |
-| GUI/GameOver_ru.loc             | Машинный перевод    |
+| GUI/GameOver_ru.loc             | ✅                  |
 | GUI/Generic_ru.loc              | Машинный перевод    |
-| GUI/Input_ru.loc                | Машинный перевод    |
+| GUI/Input_ru.loc                | ✅                  |
 | GUI/Journal_ru.loc              | Машинный перевод    |
 | GUI/Learn_ru.loc                | Машинный перевод    |
 | GUI/LoadingScreens_ru.loc       | Машинный перевод    |
