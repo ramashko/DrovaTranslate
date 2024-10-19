@@ -1,6 +1,6 @@
 title_character_segment { Персонаж }
 
-label_character_level { Уровень }
+label_character_level { Уров. }
 
 tooltip_character_level {Отображает ваш текущий уровень. Это показывает, насколько силен ваш персонаж. }
 
