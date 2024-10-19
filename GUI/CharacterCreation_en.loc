@@ -32,7 +32,7 @@ Option_Beard { Борода }
 
 Option_BeardColor { Цвет бороды }
 
-Souvenir_Empty { Нет памяти }
+Souvenir_Empty { Без сувенира }
 
 Souvenir_Empty_Tooltip { Только вы и ваши способности. У вас есть все, что вам нужно. }
 
