@@ -467,12 +467,12 @@
 | Option_GUI_ru.loc              | Машинный перевод    |
 | Playtest_Temp_ru.loc           | ❌                  |
 | RedTower_EndSequence_ru.loc    | Машинный перевод    |
-| RestWorldDialogue_ru.loc       | Машинный перевод    |
+| RestWorldDialogue_ru.loc       | ✅                  |
 | Talents_ru.loc                 | ✅                  |
 | TavernQuests_ru.loc            | ✅                 |
 | TooltipSettings_ru.loc         | ✅                 |
 | TutorialNew_ru.loc             | ✅                  |
 | Tutorial_ru.loc                | ✅                 |
-| WoodcampWorldDialogue_ru.loc   | Машинный перевод    |
+| WoodcampWorldDialogue_ru.loc   | ✅                 |
 | WorldDialogueCombat_ru.loc     | ✅                 |
 | WorldDialog_RedTower_ru.loc    | ✅                 |
