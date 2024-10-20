@@ -450,14 +450,14 @@
 | Buffs_ru.loc                   | ✅                  |
 | CookingFire_ru.loc             | ✅                  |
 | Crafting_ru.loc                | ✅                  |
-| Credits_ru.loc                 | Машинный перевод    |
+| Credits_ru.loc                 | ❌                  |
 | CrimesReactions_ru.loc         | ✅                  |
 | Gates_ru.loc                   | ✅                  |
 | IntroCutscene_ru.loc           | ✅                  |
 | IntroWorldDialog_ru.loc        | ✅                  |
 | Intro_ru.loc                   | Машинный перевод    |
 | ItemChooser_ru.loc             | ✅                  |
-| Items_ru.loc                   | Машинный перевод    |
+| Items_ru.loc                   | Первые 1000          |
 | LastWorldDialogues_ru.loc      | ✅                  |
 | LeruDreams_ru.loc              | Машинный перевод    |
 | LerusDreams_ru.loc             | Машинный перевод    |
@@ -465,14 +465,14 @@
 | NewWorldDialog_ru.loc          | Машинный перевод    |
 | NPC_Names_ru.loc               | Машинный перевод    |
 | Option_GUI_ru.loc              | Машинный перевод    |
-| Playtest_Temp_ru.loc           | Машинный перевод    |
+| Playtest_Temp_ru.loc           | ❌                  |
 | RedTower_EndSequence_ru.loc    | Машинный перевод    |
 | RestWorldDialogue_ru.loc       | Машинный перевод    |
 | Talents_ru.loc                 | ✅                  |
-| TavernQuests_ru.loc            | Машинный перевод    |
-| TooltipSettings_ru.loc         | Машинный перевод    |
+| TavernQuests_ru.loc            | ✅                 |
+| TooltipSettings_ru.loc         | ✅                 |
 | TutorialNew_ru.loc             | ✅                  |
-| Tutorial_ru.loc                | Машинный перевод    |
+| Tutorial_ru.loc                | ✅                 |
 | WoodcampWorldDialogue_ru.loc   | Машинный перевод    |
 | WorldDialogueCombat_ru.loc     | ✅                 |
-| WorldDialog_RedTower_ru.loc    | Машинный перевод    |
+| WorldDialog_RedTower_ru.loc    | ✅                 |
