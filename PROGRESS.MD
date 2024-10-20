@@ -443,7 +443,7 @@
 | Letters/SickSister_ru.loc       | ✅                  |
 | Letters/Table_Brutus_ru.loc      | ✅                  |
 | NPC_Names/WellLadder_ru.loc    | Машинный перевод    |
-| Achievements_ru.loc            | Нет перевода        |
+| Achievements_ru.loc            | ✅                  |
 | AreaNames_ru.loc               | ✅                  |
 | BeehiveDialogue_ru.loc         | Машинный перевод    |
 | BrawlReactions_ru.loc          | Машинный перевод    |
