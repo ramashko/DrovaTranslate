@@ -40,28 +40,28 @@
 | Dialog/NPC_Adela_ru.loc | ✅    |
 | Dialog/NPC_Adwin_ru.loc | ✅    |
 | Dialog/NPC_Afrin_ru.loc | ✅    |
-| Dialog/NPC_Agilo_ru.loc | Машинный перевод    |
-| Dialog/NPC_Agnessa_ru.loc | Машинный перевод    |
-| Dialog/NPC_Aidan_ru.loc | Машинный перевод    |
-| Dialog/NPC_Aiko_ru.loc | Машинный перевод    |
-| Dialog/NPC_Albrecht_ru.loc | Машинный перевод    |
-| Dialog/NPC_Aldrik_ru.loc | Машинный перевод    |
-| Dialog/NPC_Aleka_ru.loc | Машинный перевод    |
-| Dialog/NPC_Almar_ru.loc | Машинный перевод    |
-| Dialog/NPC_Amella_ru.loc | Машинный перевод    |
-| Dialog/NPC_Andarta_ru.loc | Машинный перевод    |
-| Dialog/NPC_Andrick_ru.loc | Машинный перевод    |
+| Dialog/NPC_Agilo_ru.loc | ✅    |
+| Dialog/NPC_Agnessa_ru.loc | ✅    |
+| Dialog/NPC_Aidan_ru.loc | ✅    |
+| Dialog/NPC_Aiko_ru.loc | ✅    |
+| Dialog/NPC_Albrecht_ru.loc | ✅    |
+| Dialog/NPC_Aldrik_ru.loc | ✅    |
+| Dialog/NPC_Aleka_ru.loc | ✅    |
+| Dialog/NPC_Almar_ru.loc | ✅    |
+| Dialog/NPC_Amella_ru.loc | ✅    |
+| Dialog/NPC_Andarta_ru.loc | ✅    |
+| Dialog/NPC_Andrick_ru.loc | ✅    |
 | Dialog/NPC_Angus_ru.loc | Машинный перевод    |
 | Dialog/NPC_Asmus_ru.loc | Машинный перевод    |
-| Dialog/NPC_Augis_ru.loc | Машинный перевод    |
-| Dialog/NPC_Babsi_ru.loc | Машинный перевод    |
+| Dialog/NPC_Augis_ru.loc | ✅    |
+| Dialog/NPC_Babsi_ru.loc | ✅    |
 | Dialog/NPC_Bady_ru.loc | Машинный перевод    |
 | Dialog/NPC_Baldo_ru.loc | Машинный перевод    |
 | Dialog/NPC_Baltus_ru.loc | Машинный перевод    |
-| Dialog/NPC_BanditBridge1_ru.loc | Машинный перевод    |
-| Dialog/NPC_BanditBridge2_ru.loc | Машинный перевод    |
-| Dialog/NPC_Banner_ru.loc | Машинный перевод    |
-| Dialog/NPC_Bardok_ru.loc | Машинный перевод    |
+| Dialog/NPC_BanditBridge1_ru.loc | ✅    |
+| Dialog/NPC_BanditBridge2_ru.loc | ✅    |
+| Dialog/NPC_Banner_ru.loc | ✅    |
+| Dialog/NPC_Bardok_ru.loc | ✅    |
 | Dialog/NPC_Berni_ru.loc | Машинный перевод    |
 | Dialog/NPC_Bernold_ru.loc | Машинный перевод    |
 | Dialog/NPC_Bertine_ru.loc | Машинный перевод    |
