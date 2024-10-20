@@ -442,23 +442,23 @@
 | Letters/Shrines_ru.loc          | ✅                  |
 | Letters/SickSister_ru.loc       | ✅                  |
 | Letters/Table_Brutus_ru.loc      | ✅                  |
-| NPC_Names/WellLadder_ru.loc    | Машинный перевод    |
+| NPC_Names/WellLadder_ru.loc    | ✅                  |
 | Achievements_ru.loc            | ✅                  |
 | AreaNames_ru.loc               | ✅                  |
-| BeehiveDialogue_ru.loc         | Машинный перевод    |
-| BrawlReactions_ru.loc          | Машинный перевод    |
-| Buffs_ru.loc                   | Машинный перевод    |
-| CookingFire_ru.loc             | Машинный перевод    |
-| Crafting_ru.loc                | Машинный перевод    |
+| BeehiveDialogue_ru.loc         | ✅                  |
+| BrawlReactions_ru.loc          | ✅                  |
+| Buffs_ru.loc                   | ✅                  |
+| CookingFire_ru.loc             | ✅                  |
+| Crafting_ru.loc                | ✅                  |
 | Credits_ru.loc                 | Машинный перевод    |
-| CrimesReactions_ru.loc         | Машинный перевод    |
-| Gates_ru.loc                   | Машинный перевод    |
-| IntroCutscene_ru.loc           | Машинный перевод    |
-| IntroWorldDialog_ru.loc        | Машинный перевод    |
+| CrimesReactions_ru.loc         | ✅                  |
+| Gates_ru.loc                   | ✅                  |
+| IntroCutscene_ru.loc           | ✅                  |
+| IntroWorldDialog_ru.loc        | ✅                  |
 | Intro_ru.loc                   | Машинный перевод    |
-| ItemChooser_ru.loc             | Машинный перевод    |
+| ItemChooser_ru.loc             | ✅                  |
 | Items_ru.loc                   | Машинный перевод    |
-| LastWorldDialogues_ru.loc      | Машинный перевод    |
+| LastWorldDialogues_ru.loc      | ✅                  |
 | LeruDreams_ru.loc              | Машинный перевод    |
 | LerusDreams_ru.loc             | Машинный перевод    |
 | NemetonWorldDialog_ru.loc      | Машинный перевод    |
