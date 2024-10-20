@@ -2,44 +2,44 @@
 
 | Файл                           | Статус              |
 |--------------------------------|---------------------|
-| Dialog/Corpses/Aldo_ru.loc              | Машинный перевод    |
-| Dialog/Corpses/Anselm_ru.loc            | Машинный перевод    |
-| Dialog/Corpses/Baldo_ru.loc             | Машинный перевод    |
-| Dialog/Corpses/CityDungeon_0_ru.loc     | Машинный перевод    |
-| Dialog/Corpses/Cobweb_Wall_ru.loc       | Машинный перевод    |
-| Dialog/Corpses/Fleur_ru.loc              | Машинный перевод    |
-| Dialog/Corpses/Generic_ru.loc            | Машинный перевод    |
-| Dialog/Footprint/HumanFight_ru.loc       | Машинный перевод    |
-| Dialog/Objects/Armorstand_Bady_ru.loc    | Машинный перевод    |
-| Dialog/Perceptible/NPC_Farlan_Corpse_ru.loc        | Машинный перевод    |
-| Dialog/Perceptible/Perceptible_Generic_ru.loc       | Машинный перевод    |
-| Dialog/Perceptible/Signpost_Generic_ru.loc           | Машинный перевод    |
-| Dialog/Perceptible/Vorago_Lightning_ru.loc           | Машинный перевод    |
-| Dialog/Alraune_ru.loc | Машинный перевод    |
-| Dialog/AuwaldDungeonFaction_ru.loc | Машинный перевод    |
-| Dialog/Beard_Red_ru.loc | Машинный перевод    |
-| Dialog/BlaanKarimBattleBuddies_ru.loc | Машинный перевод    |
-| Dialog/BluePoo_ru.loc | Машинный перевод    |
-| Dialog/BlueVomit_ru.loc | Машинный перевод    |
-| Dialog/BrokenPlant_ru.loc | Машинный перевод    |
-| Dialog/BrokenSheepFence_ru.loc | Машинный перевод    |
-| Dialog/BrutusMineDays_ru.loc | Машинный перевод    |
-| Dialog/BrutusMineWorldDialog_ru.loc | Машинный перевод    |
-| Dialog/Canary_ru.loc | Машинный перевод    |
-| Dialog/Corpses_ru.loc | Машинный перевод    |
-| Dialog/Frog_Friendly_ru.loc | Машинный перевод    |
-| Dialog/GenericSheep_ru.loc | Машинный перевод    |
-| Dialog/GrowthEnhancer_ru.loc | Машинный перевод    |
-| Dialog/HauerWorldDialogs_ru.loc | Машинный перевод    |
-| Dialog/Lever_Generic_ru.loc | Машинный перевод    |
-| Dialog/MadWoman_ru.loc | Машинный перевод    |
-| Dialog/MusicMachine_ru.loc | Машинный перевод    |
-| Dialog/MysteriousLantern_ru.loc | Машинный перевод    |
-| Dialog/NPC_Adalgis_ru.loc | Машинный перевод    |
-| Dialog/NPC_Ada_ru.loc | Машинный перевод    |
-| Dialog/NPC_Adela_ru.loc | Машинный перевод    |
-| Dialog/NPC_Adwin_ru.loc | Машинный перевод    |
-| Dialog/NPC_Afrin_ru.loc | Машинный перевод    |
+| Dialog/Corpses/Aldo_ru.loc              | ✅    |
+| Dialog/Corpses/Anselm_ru.loc            | ✅    |
+| Dialog/Corpses/Baldo_ru.loc             | ✅    |
+| Dialog/Corpses/CityDungeon_0_ru.loc     | ✅    |
+| Dialog/Corpses/Cobweb_Wall_ru.loc       | ✅    |
+| Dialog/Corpses/Fleur_ru.loc              | ✅    |
+| Dialog/Corpses/Generic_ru.loc            | ✅    |
+| Dialog/Footprint/HumanFight_ru.loc       | ✅    |
+| Dialog/Objects/Armorstand_Bady_ru.loc    | ✅    |
+| Dialog/Perceptible/NPC_Farlan_Corpse_ru.loc        | ✅    |
+| Dialog/Perceptible/Perceptible_Generic_ru.loc       | ✅    |
+| Dialog/Perceptible/Signpost_Generic_ru.loc           | ✅    |
+| Dialog/Perceptible/Vorago_Lightning_ru.loc           | ✅    |
+| Dialog/Alraune_ru.loc | ✅    |
+| Dialog/AuwaldDungeonFaction_ru.loc | ✅    |
+| Dialog/Beard_Red_ru.loc | ✅    |
+| Dialog/BlaanKarimBattleBuddies_ru.loc | ✅    |
+| Dialog/BluePoo_ru.loc | ✅    |
+| Dialog/BlueVomit_ru.loc | ✅    |
+| Dialog/BrokenPlant_ru.loc | ✅    |
+| Dialog/BrokenSheepFence_ru.loc | ✅    |
+| Dialog/BrutusMineDays_ru.loc | ✅    |
+| Dialog/BrutusMineWorldDialog_ru.loc | ✅    |
+| Dialog/Canary_ru.loc | ✅    |
+| Dialog/Corpses_ru.loc | ✅    |
+| Dialog/Frog_Friendly_ru.loc | ✅    |
+| Dialog/GenericSheep_ru.loc | ✅    |
+| Dialog/GrowthEnhancer_ru.loc | ✅    |
+| Dialog/HauerWorldDialogs_ru.loc | ✅    |
+| Dialog/Lever_Generic_ru.loc | ✅    |
+| Dialog/MadWoman_ru.loc | ✅    |
+| Dialog/MusicMachine_ru.loc | ✅    |
+| Dialog/MysteriousLantern_ru.loc | ✅    |
+| Dialog/NPC_Adalgis_ru.loc | ✅    |
+| Dialog/NPC_Ada_ru.loc | ✅    |
+| Dialog/NPC_Adela_ru.loc | ✅    |
+| Dialog/NPC_Adwin_ru.loc | ✅    |
+| Dialog/NPC_Afrin_ru.loc | ✅    |
 | Dialog/NPC_Agilo_ru.loc | Машинный перевод    |
 | Dialog/NPC_Agnessa_ru.loc | Машинный перевод    |
 | Dialog/NPC_Aidan_ru.loc | Машинный перевод    |
