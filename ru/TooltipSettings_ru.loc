@@ -32,7 +32,7 @@ talentlearned { Изучен }
 
 talentcannotlearned { Пока не изучен }
 
-talentcanbelearned { Изучен }
+talentcanbelearned { Можно изучить }
 
 unknownteacher { Неизвестно }
 
