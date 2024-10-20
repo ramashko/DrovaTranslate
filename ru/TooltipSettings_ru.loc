@@ -2,7 +2,7 @@ healingText { Восстанавливает [MaxStack] здоровья за [S
 
 damage { Урон }
 
-attack { Урон атаки }
+attack { Урон от атаки }
 
 flowgain { Фокус }
 
