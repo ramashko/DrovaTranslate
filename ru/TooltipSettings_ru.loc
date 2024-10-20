@@ -96,7 +96,7 @@ orientationpoint { Базовый фокус [VALUE] }
 
 stat_change_str { +$STATCHANGE:PhysDmg$ физ. урон }
 
-stat_change_dex { +$STATCHANGE:CritChance$ крит. }
+stat_change_dex { +$STATCHANGE:CritChance$ крит. шанс }
 
 stat_change_mind { +$STATCHANGE:MagDmg$ маг. урон + $STATCHANGE:Focus$ базовый фокус }
 
