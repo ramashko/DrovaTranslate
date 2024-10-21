@@ -1006,47 +1006,47 @@ armor_chest_ruinenlager_fighter_heavy_name_name { Тяжелая Боевая Б
 
 armor_chest_ruinenlager_heavy_name_name { Тяжелая Броня Ремнантов }
 
-armor_chest_ruinenlager_heavy_name_description { Эта броня предназначена только для членов Оставшихся. Она демонстрирует мою преданность Джеро. }
+armor_chest_ruinenlager_heavy_name_description { Эта броня предназначена только для Ремнантов. Она демонстрирует мою преданность Джеро. }
 
-armor_chest_ruinenlager_name_name { Остатки легкой брони }
+armor_chest_ruinenlager_name_name { Лёгкая броня Ремнантов }
 
-armor_chest_tunic_name_name { Рабочая одежда }
+armor_chest_tunic_name_name { Рабочая Одежда }
 
 armor_chest_tunic_name_description { Рабочая одежда. Не обеспечивает особой защиты, но это лучше, чем ничего. }
 
-helmet_antlers_name_name { Шлем оленя }
+helmet_antlers_name_name { Шлем Оленя }
 
-helmet_draugr_silver_name_name { Шлем ушедшего времени }
+helmet_draugr_silver_name_name { Шлем Прошедших }
 
-helmet_earprotection_name_name { Защита ушей }
+helmet_earprotection_name_name { Наушники }
 
-helmet_ironwings_name_name { Шлем с железными крыльями }
+helmet_ironwings_name_name { Шлем с Железными Крыльями }
 
-helmet_legionare_name_name { Шлем легионера }
+helmet_legionare_name_name { Шлем Легионера }
 
-Raven Mask_name { Маска ворона }
+Raven Mask_name { Маска Ворона }
 
-quiver_simple_name_name { Простой колчан }
+quiver_simple_name_name { Простой Колчан }
 
-quiver_simple_name_description { Простой колчан с местом для трех стрел. }
+quiver_simple_name_description { В этом колчане есть место для трёх стрел. }
 
 ring_aldo_name_name { Кольцо Альдо }
 
 ring_aldo_name_description { Небольшое кольцо с выгравированной буквой А. }
 
-item_mediumquiver_name { Средний колчан }
+item_mediumquiver_name { Средний Колчан }
 
 item_mediumquiver_description { В этом колчане есть место для пяти стрел. }
 
-item_bigquiver_name { Большой колчан }
+item_bigquiver_name { Большой Колчан }
 
 item_bigquiver_description { В этом колчане есть место для семи стрел. }
 
-item_rivercharm_name { Амулет реки }
+item_rivercharm_name { Амулет Реки }
 
-item_rivercharm_description { При успешном попадании атаки генерируют на [FocusValueAbsolut] больше Фокуса. }
+item_rivercharm_description { При успешном попадании генерируют на [FocusValueAbsolut] больше Фокуса. }
 
-item_thornfetish_name { Колючий фетиш }
+item_thornfetish_name { Шипастый фетиш }
 
 item_thornfetish_description { Каждое заклинание и каждая способность потребляют дополнительно [HealValuePercent] здоровья, но наносят на [DamageValuePercent] больше урона. }
 
@@ -1054,67 +1054,67 @@ item_riptoothchain_name { Клыкастое ожерелье }
 
 item_riptoothchain_description { Эффекты кровотечения наносят урон быстрее. }
 
-item_vipertooth_name { Зуб гадюки }
+item_vipertooth_name { Зуб Гадюки }
 
-item_vipertooth_description { Эффект яда дополнительно замедляется на [SlowPercent]. }
+item_vipertooth_description { Эффект яда дополнительно замедляет на [SlowPercent]. }
 
-item_mastersmemory_name { Пояс мастера }
+item_mastersmemory_name { Пояс Мастера }
 
-item_mastersmemory_description { Последний удар комбо с мечом или топором наносит на [DamageValuePercent] больше урона и генерирует на [FocusValuePercent] больше фокуса. }
+item_mastersmemory_description { Последний удар в комбо с мечом или топором наносит на [DamageValuePercent] больше урона и генерирует на [FocusValuePercent] больше фокуса. }
 
-item_cleavageskull_name { Черепотес }
+item_cleavageskull_name { Череполом }
 
 item_cleavageskull_description { Вы наносите противникам на [PoiseValuePercent] больше урона в стойке. }
 
-item_bloodthirstamulet_name { Кровожадный амулет }
+item_bloodthirstamulet_name { Амулет Кровожадности }
 
 item_bloodthirstamulet_description { Если ваш противник находится под действием Кровотечения, ваши атаки ближнего боя с вероятностью [TriggerPercent] восстановят [TriggerChance] здоровья. }
 
-item_berserkerring_name { Кольцо берсерка }
+item_berserkerring_name { Кольцо Берсерка }
 
 item_berserkerring_description { Восстанавливает [HealValueAbsolut] здоровья за каждого убитого противника. }
 
-item_berserkerring_2_name { Роскошное кольцо берсерка }
+item_berserkerring_2_name { Роскошное Кольцо Берсерка }
 
 item_berserkerring_2_description { Восстанавливает [HealValuePercent] здоровья за каждого убитого противника. }
 
-item_sprigganheart_name { Сушеное сердце Спригги }
+item_sprigganheart_name { Сушеное Сердце Спригги }
 
-item_sprigganheart_description { Каждая атака ближнего боя, которая попадает по вам, имеет [TriggerPercent] шанс заставить корни схватить противника на [StunTime] секунд. }
+item_sprigganheart_description { Каждая атака в ближнем бою, которая попадает по вам, имеет [TriggerPercent] шанс заставить корни опутать противника на [StunTime] секунд. }
 
-item_hunterquiver_name { Рог охотника }
+item_hunterquiver_name { Рог Охотника }
 
 item_hunterquiver_description { Увеличивает емкость вашего колчана на 1 и ускоряет перезарядку. }
 
-item_boartooth_name { Череп кабана }
+item_boartooth_name { Череп Кабана }
 
 item_boartooth_description { Тяжелые атаки потребляют на [StaminaValuePercent] меньше выносливости. }
 
-item_tendonofglory_name { Болт величия }
+item_tendonofglory_name { Молния величия }
 
-item_tendonofglory_description { Дистанционные атаки пронзают первую пораженную цель. }
+item_tendonofglory_description { Дистанционные атаки пронзают первую цель. }
 
-item_shaftofpurefury_name { Стрела чистой ярости }
+item_shaftofpurefury_name { Стрела Чистой Ярости }
 
-item_shaftofpurefury_description { За каждое [HealthPercent] потерянного здоровья вы наносите на [DamagePercent] больше урона. }
+item_shaftofpurefury_description { За каждые [HealthPercent] потерянного здоровья вы наносите на [DamagePercent] больше урона. }
 
-item_bloodbornering_name { Кольцо крови }
+item_bloodbornering_name { Кольцо Крови }
 
-item_bloodbornering_description { После того, как вы получили удар, у вас есть короткое время, чтобы восстановить потерянное здоровье, нанося урон противнику. Остерегайтесь старой крови. }
+item_bloodbornering_description { После того, как вы получили удар, у вас есть короткий промежуток времени, чтобы восстановить потерянное здоровье, нанося урон противнику. Берегитесь старой крови. }
 
 item_whispersilkbag_name { Мешочек из шепчущего шелка }
 
 item_whispersilkbag_description { Вы восстанавливаете [StaminaValueAbsolut] выносливости в секунду. }
 
-item_rubintalisman_name { Рубиновый талисман }
+item_rubintalisman_name { Рубиновый Талисман }
 
 item_rubintalisman_description { Усиливает эффекты всех криков. }
 
-item_flowcatchertalisman_name { Талисман ловца потока }
+item_flowcatchertalisman_name { Талисман Ловца Потока }
 
-item_flowcatchertalisman_description { Использование способности фокуса временно увеличивает урон, наносимый вашим следующим ударом в ближнем бою, на [DamageValuePercent]. }
+item_flowcatchertalisman_description { Использование фокус способности временно увеличивает урон, наносимый вашим следующим ударом в ближнем бою, на [DamageValuePercent]. }
 
-item_windtalisman_name { Талисман ветра }
+item_windtalisman_name { Талисман Ветра }
 
 item_windtalisman_description { После уклонения ваша следующая атака наносит на [DamageValuePercent] больше урона. }
 
@@ -1132,35 +1132,35 @@ item_silverringstrength_2_name { Кольцо с Узлом Дара }
 
 item_silberringskill_0_name { Серебряное Кольцо Бандита }
 
-item_silberringskill_1_name { Серебряное кольцо убийцы}
+item_silberringskill_1_name { Серебряное Кольцо Убийцы }
 
-item_silberringskill_2_name { Серебряное кольцо наемного убийцы}
+item_silberringskill_2_name { Серебряное Кольцо Наемного Убийцы }
 
-item_silberringmind_0_name { Кольцо духов}
+item_silberringmind_0_name { Кольцо Духов }
 
-item_silberringmind_1_name { Изящное кольцо духов}
+item_silberringmind_1_name { Нежное Кольцо Духов }
 
-item_silberringmind_2_name { Изысканное кольцо духов}
+item_silberringmind_2_name { Изысканное Кольцо Духов }
 
-item_armorring_0_name { Железный трискелион}
+item_armorring_0_name { Железный Трискелион }
 
-item_armorring_1_name { Серебряный трискелион}
+item_armorring_1_name { Серебряный Трискелион }
 
-item_magicresring_0_name { Трикетра}
+item_magicresring_0_name { Трикветр }
 
-item_magicresring_1_name { Светящийся трикетра}
+item_magicresring_1_name { Светящийся Трикветр }
 
-item_harpyiefeather_name { Перо гарпии}
+item_harpyiefeather_name { Перо гарпии }
 
-item_harpyiefeather_description { Получено из старого крылатого существ в руинах. }
+item_harpyiefeather_description { Извлечено из древних крылатых созданий в руинах. }
 
 item_hunterstrophy_name { Трофей Охотника }
 
-item_hunterstrophy_description { Существует вероятность [TriggerPercent], что дальние атаки не используют снаряд. }
+item_hunterstrophy_description { Есть [TriggerPercent] шанс, что дальние атаки не используют снаряд. }
 
 item_talismanJourneyToTheRoots_name { Кровавый Талисман }
 
-item_talismanJourneyToTheRoots_description { Талисман, полученный от Диэмо. Я должен отнести по одному каждому корню Матери. }
+item_talismanJourneyToTheRoots_description { Талисман, полученный от Диемо. Я должен отнести по одному к каждому корню Матери. }
 
 armor_chest_leather_strong_name_name { Крепкая Кожаная Броня }
 
@@ -1168,19 +1168,19 @@ armor_chest_leather_magielager_name_name { Одежда Связанных }
 
 armor_chest_leather_magielager_name_description { Теперь я един с Первобытным Лесом. }
 
-armor_chest_nemeton_merchant_name_name { Наряд торговца в Неметоне}
+armor_chest_nemeton_merchant_name_name { Наряд Торговца Неметона}
 
-armor_chest_nemeton_craftsman_name_name { Наряд ремесленника в Неметоне}
+armor_chest_nemeton_craftsman_name_name { Наряд Ремесленника Неметона}
 
-armor_chest_nemeton_chief_name_name { Доспехи лидера Неметона}
+armor_chest_nemeton_chief_name_name { Доспехи Лидера Неметона}
 
-armor_chest_ruinenlager_chief_name_name { Доспехи лидера остатков}
+armor_chest_ruinenlager_chief_name_name { Доспехи Лидера Ремнантов}
 
-item_mumbertDiarrhoea_name { Пиво со специями}
+item_mumbertDiarrhoea_name { Колючее Пиво }
 
 item_mumbertDiarrhoea_description { От Гумберта для Асмуса}
 
-item_marinatedmeatleg_name { Маринованная мясная рулька Тиаа}
+item_marinatedmeatleg_name { Маринованная Мясная Рулька Тиаа}
 
 item_letterCityDungeon_0_name { Беспорядки в Дрове IV}
 
@@ -1188,7 +1188,7 @@ item_letterCityDungeon_1_name { Беспорядки в Дрове V }
 
 item_letterCityDungeon_2_name { Беспорядки в Дрове VI }
 
-item_letterCityDungeon_3_name { Старые ноты }
+item_letterCityDungeon_3_name { Старая партитура }
 
 item_letterCityDungeon_Underground_0_name { Конец близок I }
 
@@ -1202,7 +1202,7 @@ item_letterAuwaldDungeon_1_name { Неожиданные побочные эфф
 
 item_letterAuwaldDungeon_2_name { Пещеры пауков }
 
-item_letterAuwaldDungeon_3_name { Успехи Манипуляция природой }
+item_letterAuwaldDungeon_3_name { Успехи в манипуляции природой }
 
 item_letterAuwaldDungeon_4_name { Наблюдения за пауками }
 
@@ -1210,7 +1210,7 @@ item_letterAuwaldDungeon_5_name { Один из последних выживш�
 
 key_ShadyDistrict_name { Ключ к Темному кварталу. }
 
-item_rustmoss_BadFromGera_name { Срезанный ржавый мох }
+item_rustmoss_BadFromGera_name { Срезанный Ржавый Мох }
 
 item_rustmoss_BadFromGera_description { Гера хочет, чтобы я «потерял» этот ржавый мох в запасах Лейны. }
 
@@ -1218,65 +1218,65 @@ item_kiepe_rubble_name { Корзина }
 
 item_paperchasestone_cleansed_name { Очищенный талисман }
 
-item_paperchasestone_cleansed_description { Поташ очистил талисман от всего зла. Но не хватает одной руны. }
+item_paperchasestone_cleansed_description { Карбонат калия очистил талисман от всего зла. Но всё ещё не хватает одной руны. }
 
 item_paperchasestone_band_name { Талисман со шнуром }
 
-item_paperchasestone_band_description { Грубый талисман теперь висит на шнуре. Но пока он не выглядит опрятным... }
+item_paperchasestone_band_description { Грубый талисман теперь висит на шнурке. Но он всё ещё не выглядит аккуратно... }
 
-item_paperchasestone_raw_name { Грубый талисман }
+item_paperchasestone_raw_name { Грубый Талисман }
 
-item_paperchasestone_rune_name { Украшенный талисман }
+item_paperchasestone_rune_name { Украшенный Талисман }
 
 item_paperchasestone_rune_description { Благодаря моим художественным талантам, теперь этот талисман украшает руна. Может, мне показать это детям? }
 
-misc_riddle_deer_name { Серебряные рога }
+misc_riddle_deer_name { Серебряные Рога }
 
-misc_riddle_deer_description { Магический артефакт былых времен. Вдохновленный божеством. }
+misc_riddle_deer_description { Магический артефакт Прошедших. Вдохновленный Божеством. }
 
-misc_riddle_fox_name { Серебряная лапа }
+misc_riddle_fox_name { Серебряная Лапа }
 
-misc_riddle_eagle_name { Серебряное перо }
+misc_riddle_eagle_name { Серебряное Перо }
 
 weapon_sword_karottegladius_name { Оружие Каротте }
 
-weapon_sword_karottegladius_description { Увесистое оружие, на котором выгравирована широкая морковь. }
+weapon_sword_karottegladius_description { Увесистое оружие, на котором выгравирована большая морковка. }
 
-item_karottegladius_broken_name { Поврежденное оружие Каротте }
+item_karottegladius_broken_name { Поврежденное Оружие Каротте }
 
-item_karottegladius_broken_description { Чуннаик должен уметь ремонтировать это оружие. }
+item_karottegladius_broken_description { Чуннаик должен суметь отремонтировать это оружие. }
 
-item_letterboard_fragment_name { Фрагмент таблички }
+item_letterboard_fragment_name { Фрагмент Таблички }
 
-item_atlanter_coin_name { Древние монеты }
+item_atlanter_coin_name { Древние Монеты }
 
-item_engraving_stones_name { Гравированные камни }
+item_engraving_stones_name { Гравированные Камни }
 
-item_sealstone_past_name { Камень-печать ушедших }
+item_sealstone_past_name { Камень-Печать Прошедших }
 
 item_sealstone_past_description { Изысканно украшенный камень со встроенным кристаллом. }
 
-item_brutus_seal_inactive_name { Неактивная печать Дриваниуса }
+item_brutus_seal_inactive_name { Неактивная Печать Дриваниуса }
 
-item_brutus_seal_inactive_description { Не все встроенные кристаллы в семи камнях-печатях активны. }
+item_brutus_seal_inactive_description { Не все встроенные кристаллы в семи отверстиях активны. }
 
 item_shell_01_name { Моллюск }
 
 item_shell_02_name { Моллюск }
 
-item_atlanter_wine_name { Старое вино }
+item_atlanter_wine_name { Вино Прошедших }
 
 item_atlanter_wine_description { Год изготовления: Неизвестно. }
 
-item_herb_past_name { Старые целебные травы }
+item_herb_past_name { Целебные Травы Прошедших }
 
 item_herb_past_description { Древние, но они все еще обладают некоторыми целебными свойствами. }
 
-item_headdress_magicamp_name { Головной убор связанных }
+item_headdress_magicamp_name { Головной убор Связанных }
 
-item_headdress_magicamp_description { Головной убор, символизирующий связь с Первобытным лесом. }
+item_headdress_magicamp_description { Головной убор, символизирующий связь с Первобытным Лесом. }
 
-item_brutus_seal_active_name { Активная печать Дриваниуса }
+item_brutus_seal_active_name { Активная Печать Дриваниуса }
 
 item_brutus_seal_active_description { Все семь встроенных кристаллов светятся. }
 
@@ -1286,195 +1286,195 @@ item_letterTableBrutus_1_name { Финальное исследование Др
 
 item_letterTableBrutus_2_name { Финальное исследование Дриваниуса IV }
 
-item_atlanteanarmorparts_name { Части доспехов прошлого }
+item_atlanteanarmorparts_name { Части доспехов Прошедших }
 
 item_atlanteanarmorparts_description { Выглядят ценными. Может, кузнец сможет что-нибудь с ними сделать? }
 
-recipe_flow_aggressiveCry_name { Способность: Агрессивный крик}
+recipe_flow_aggressiveCry_name { Способность: Воинственный Крик}
 
-recipe_flow_battleCry_name { Способность: Боевой крик}
+recipe_flow_battleCry_name { Способность: Боевой Крик}
 
-recipe_flow_blink_name { Заклинание: Туманный шаг}
+recipe_flow_blink_name { Заклинание: Туманный Шаг}
 
-recipe_flow_bloodRage_name { Способность: Кровавое безумие}
+recipe_flow_bloodRage_name { Способность: Кровая Ярость}
 
-recipe_flow_bullRush_name { Способность: Рывок}
+recipe_flow_bullRush_name { Способность: Заряд}
 
 recipe_flow_conflagration_name { Заклинание: Пламя}
 
 recipe_flow_dash_name { Способность: Рывок}
 
-recipe_flow_energyProjectile_name { Заклинание: Энергетический выстрел}
+recipe_flow_energyProjectile_name { Заклинание: Энергетический Выстрел}
 
 recipe_flow_execute_name { Способность: Казнь}
 
-recipe_flow_ferventCry_name { Способность: Пылающий крик}
+recipe_flow_ferventCry_name { Способность: Страстный Крик}
 
-recipe_flow_fireCry_name { Заклинание: Огненный крик }
+recipe_flow_fireCry_name { Заклинание: Пламенный Крик }
 
-recipe_flow_flowForm_name { Заклинание: Фокусировка формы}
+recipe_flow_flowForm_name { Заклинание: Форма Фокуса}
 
-recipe_flow_fogForm_name { Заклинание: Форма тумана}
+recipe_flow_fogForm_name { Заклинание: Туманная Форма}
 
-recipe_flow_heavyBlow_name { Способность: Могучий удар}
+recipe_flow_heavyBlow_name { Способность: Могучий Удар}
 
 recipe_flow_infection_name { Способность: Заражение}
 
-recipe_flow_magicVision_name { Заклинание: Магическое зрение}
+recipe_flow_magicVision_name { Заклинание: Магическое Зрение}
 
-recipe_flow_obsidianSpear_name { Заклинание: Призыв обсидианового копья}
+recipe_flow_obsidianSpear_name { Заклинание: Призыв Обсидианового Копья}
 
 recipe_flow_pierce_name { Способность: Пронзание}
 
-recipe_flow_root_aoe_name { Заклинание: Корневой круг}
+recipe_flow_root_aoe_name { Заклинание: Опутывающий круг}
 
-recipe_flow_root_cone_name { Заклинание: Корневой конус}
+recipe_flow_root_cone_name { Заклинание: Опутывающий Конус}
 
-recipe_flow_shockingBlow_name { Способность: Сокрушительный удар }
+recipe_flow_shockingBlow_name { Способность: Сокрушительный Удар }
 
-recipe_flow_spartanKick_name { Способность: Удар ногой }
+recipe_flow_spartanKick_name { Способность: Удар Ногой }
 
 recipe_flow_thunderstorm_name { Заклинание: Гроза }
 
-recipe_flow_venomCry_name { Заклинание: Ядовитый крик }
+recipe_flow_venomCry_name { Заклинание: Ядовитый Крик }
 
-recipe_flow_whirlingEnergy_name { Заклинание: Вихревая энергия }
+recipe_flow_whirlingEnergy_name { Заклинание: Вихревая Энергия }
 
 recipe_flow_wound_name { Способность: Ранение }
 
-recipe_acidbomb_name { Рецепт: Кислотная бомба }
+recipe_acidbomb_name { Рецепт: Кислотная Бомба }
 
-recipe_acidtrap_name { Рецепт: Кислотная ловушка }
+recipe_acidtrap_name { Рецепт: Кислотная Ловушка }
 
-recipe_aditroast_name { Рецепт: Пещерное рагу }
+recipe_aditroast_name { Рецепт: Пещерное Рагу }
 
-recipe_agilostew_name { Рецепт: Странное рагу Агило }
+recipe_agilostew_name { Рецепт: Странное Рагу Агило }
 
-recipe_beartrap_name { Рецепт: Медвежий капкан }
+recipe_beartrap_name { Рецепт: Медвежий Капкан }
 
 recipe_bellow_name { Рецепт: Меха }
 
-recipe_bigquiver_name { Рецепт: Большой колчан }
+recipe_bigquiver_name { Рецепт: Большой Колчан }
 
-recipe_blanktrap_name { Рецепт: Плесень-ловушка }
+recipe_blanktrap_name { Рецепт: Форма для Ловушки }
 
-recipe_bomb_name { Рецепт: Кассетная бомба }
+recipe_bomb_name { Рецепт: Кластерная Бомба }
 
-recipe_crowfeettrap_name { Рецепт: Гусиные лапки }
+recipe_crowfeettrap_name { Рецепт: Гусиные Лапки }
 
-recipe_elixier_concentration_name { Рецепт: Эликсир концентрации }
+recipe_elixier_concentration_name { Рецепт: Эликсир Концентрации }
 
-recipe_elixier_life_name { Рецепт: Эликсир жизни }
+recipe_elixier_life_name { Рецепт: Эликсир Жизни }
 
-recipe_elixier_skill_name { Рецепт: Эликсир ловкости }
+recipe_elixier_skill_name { Рецепт: Эликсир Ловкости }
 
-recipe_elixier_spirit_name { Рецепт: Эликсир разума }
+recipe_elixier_spirit_name { Рецепт: Эликсир Разума }
 
-recipe_elixier_strength_name { Рецепт: Эликсир силы }
+recipe_elixier_strength_name { Рецепт: Эликсир Силы }
 
-recipe_farmersmeal_name { Рецепт: Фермерская еда }
+recipe_farmersmeal_name { Рецепт: Обед Фермера }
 
-recipe_fishpan_name { Рецепт: Жареная рыба }
+recipe_fishpan_name { Рецепт: Жареная Рыбка }
 
-recipe_flowpotion_0_name { Рецепт: Жаркое в туннеле }
+recipe_flowpotion_0_name { Рецепт: Туннельное Жаркое }
 
-recipe_flowpotion_1_name { Рецепт: Зелье сильного потока }
+recipe_flowpotion_1_name { Рецепт: Мощное Зелье Потока }
 
-recipe_fogstew_name { Рецепт: Ужасное рагу }
+recipe_fogstew_name { Рецепт: Унылое Рагу }
 
-recipe_foodpile_name { Рецепт: Рыбный омлет }
+recipe_foodpile_name { Рецепт: Рыбный Омлет }
 
-recipe_golemsalve_name { Рецепт: Мазь голема }
+recipe_golemsalve_name { Рецепт: Мазь Голема }
 
-recipe_harpybrew_name { Рецепт: Варево гарпии }
+recipe_harpybrew_name { Рецепт: Гарпиво }
 
-recipe_healingsalve_name { Рецепт: Лечебная мазь }
+recipe_healingsalve_name { Рецепт: Лечебная Мазь }
 
-recipe_healingsalve_2_name { Рецепт: Настойка из красного гриба }
+recipe_healingsalve_2_name { Рецепт: Настойка из Красного Гриба }
 
-recipe_healingsalve_3_name { Рецепт: Темное варево }
+recipe_healingsalve_3_name { Рецепт: Тёмное пиво }
 
-recipe_honeybeer_name { Рецепт: Honeymead }
+recipe_honeybeer_name { Рецепт: Медовуха }
 
-recipe_hunterstrophy_name { Рецепт: Trophy of the Hunter }
+recipe_hunterstrophy_name { Рецепт: Трофей Охотника }
 
-recipe_ironarrow_name { Рецепт: Iron Arrows }
+recipe_ironarrow_name { Рецепт: Железные Стрелы }
 
-recipe_ironbar_name { Рецепт: Iron Ingot }
+recipe_ironbar_name { Рецепт: Железный слиток }
 
-recipe_ironlump_name { Рецепт: Lump of Iron }
+recipe_ironlump_name { Рецепт: Кусок Железа }
 
-recipe_ironstone_name { Рецепт: Irons Balls }
+recipe_ironstone_name { Рецепт: Железные Шарики }
 
-recipe_jaggedthrowingknife_name { Рецепт: Jagged Ritual Knife }
+recipe_jaggedthrowingknife_name { Рецепт: Зазубренный Ритуальный Нож }
 
-recipe_leather_name { Рецепт: Leather }
+recipe_leather_name { Рецепт: Кожа }
 
-recipe_lockpick_name { Рецепт: Lockpick }
+recipe_lockpick_name { Рецепт: Отмычка }
 
-recipe_marinatedmeatleg_name { Рецепт: Marined Meat Snack Тиаа }
+recipe_marinatedmeatleg_name { Рецепт: Маринованная Мясная Рулька Тиаа }
 
-recipe_mediumquiver_name { Рецепт: Средний колчан }
+recipe_mediumquiver_name { Рецепт: Средний Колчан }
 
-recipe_mudmash_name { Рецепт: Мясное рагу Олафа }
+recipe_mudmash_name { Рецепт: Мясное Рагу Олафа }
 
-recipe_poisonedthrowingknife_name { Рецепт: Отравленный метательный нож }
+recipe_poisonedthrowingknife_name { Рецепт: Отравленный Метательный Нож }
 
-recipe_potion_health_0_name { Рецепт: Лечебное зелье }
+recipe_potion_health_0_name { Рецепт: Лечебное Зелье }
 
-recipe_potion_health_1_name { Рецепт: Мощное лечебное зелье }
+recipe_potion_health_1_name { Рецепт: Мощное Лечебное Зелье }
 
-recipe_potion_windwalker_name { Рецепт: Зелье блуждающего пера }
+recipe_potion_windwalker_name { Рецепт: Зелье Блуждающего Пера }
 
-recipe_rivercharm_name { Рецепт: Амулет реки }
+recipe_rivercharm_name { Рецепт: Амулет Реки }
 
-recipe_roastedcallamushroom_name { Рецепт: Жареные каллашовые грибы }
+recipe_roastedcallamushroom_name { Рецепт: Жареные Каллашрумы }
 
-recipe_roastofthepast_name { Рецепт: Прошлое жаркое }
+recipe_roastofthepast_name { Рецепт: Жаркое Прошедших }
 
-recipe_rootstew_name { Рецепт: Туманное рагу }
+recipe_rootstew_name { Рецепт: Туманное Рагу }
 
 recipe_rustymosspipe_name { Рецепт: Ржавый мох }
 
-recipe_silberringmind_0_name { Рецепт: Кольцо духов }
+recipe_silberringmind_0_name { Рецепт: Кольцо Духов }
 
-recipe_silberringmind_1_name { Рецепт: Изящное кольцо духов }
+recipe_silberringmind_1_name { Рецепт: Изящное Кольцо Духов }
 
-recipe_silberringskill_0_name { Рецепт: Серебряное кольцо бандита }
+recipe_silberringskill_0_name { Рецепт: Серебряное Кольцо Бандита }
 
-recipe_silberringskill_1_name { Рецепт: Серебряное кольцо убийцы }
+recipe_silberringskill_1_name { Рецепт: Серебряное Кольцо Убийцы }
 
-recipe_silverarrow_name { Рецепт: Серебряные стрелы }
+recipe_silverarrow_name { Рецепт: Серебряные Стрелы }
 
-recipe_silverlump_name { Рецепт: Кусок серебра }
+recipe_silverlump_name { Рецепт: Кусок Серебра }
 
-recipe_silverringstrength_0_name { Рецепт: Кольцо насилия }
+recipe_silverringstrength_0_name { Рецепт: Кольцо Насилия }
 
-recipe_silverringstrength_1_name { Рецепт: Великое кольцо насилия }
+recipe_silverringstrength_1_name { Рецепт: Великое Кольцо Насилия }
 
-recipe_silverstone_name { Рецепт: Серебряные шарики }
+recipe_silverstone_name { Рецепт: Серебряные Шарики }
 
-recipe_smashironbar_name { Рецепт: Кусок железа }
+recipe_smashironbar_name { Рецепт: Кусок Железа }
 
 recipe_spiritamulet_0_name { Рецепт: Амулет Духа }
 
 recipe_spiritamulet_1_name { Рецепт: Амулет Усиленного Духа }
 
-recipe_splittertrap_name { Рецепт: Кластерная ловушка }
+recipe_splittertrap_name { Рецепт: Кластерная Ловушка }
 
-recipe_thronyvine_name { Рецепт: Колючие лозы }
+recipe_thronyvine_name { Рецепт: Колючие Лозы }
 
-recipe_thrownet_name { Рецепт: Cast-A-Net }
+recipe_thrownet_name { Рецепт: Брось-сеть }
 
-recipe_troutskewersbombus_name { Рецепт: Смертельные вертела а-ля Бомбус }
+recipe_troutskewersbombus_name { Рецепт: Смертельные шпажки по рецепту Бомбуса }
 
-recipe_whispersilkbag_name { Рецепт: Мешочек из шепчущего шелка }
+recipe_whispersilkbag_name { Рецепт: Мешочек из Шепчущего Шелка }
 
-recipe_woodenarrow_name { Рецепт: Каменная стрела }
+recipe_woodenarrow_name { Рецепт: Каменная Стрела }
 
-ring_tuz_name_name { Грязное кольцо }
+ring_tuz_name_name { Грязное Кольцо }
 
-ring_tuz_name_description { Оно воняет. Я нашел его на пустоши. }
+ring_tuz_name_description { Воняет. Я нашел его на пустоши. }
 
 item_letterfromolafaboutBrutus_name { Письмо Дриваниуса }
 
@@ -1482,7 +1482,7 @@ item_ruinenlager_bandit_name { Кто на кого нападает }
 
 speed_slow { медленно }
 
-speed_medium { средне быстро }
+speed_medium { средне }
 
 speed_fast { быстро }
 
@@ -1490,27 +1490,27 @@ speed_veryfast { очень быстро }
 
 category_all { Все предметы }
 
-category_armor { Доспехи, шлемы и аксессуары }
+category_armor { Доспехи, Шлемы и Аксессуары }
 
-category_weapons { Оружие, щиты и боеприпасы }
+category_weapons { Оружие, Щиты и Боеприпасы }
 
-category_consumables { Зелья, лечение и еда }
+category_consumables { Зелья, Лечение и Еда }
 
-item_ripper_head_huntTheRipper_name { Голова главаря потрошителей }
+item_ripper_head_huntTheRipper_name { Голова Главаря Потрошителей }
 
-item_ripper_head_huntTheRipper_description { Этот потрошитель больше не будет терроризировать территорию вокруг таверны Олафа. }
+item_ripper_head_huntTheRipper_description { Этот потрошитель больше не будет наводить ужас на район вокруг таверны Олафа. }
 
 item_letter_sick_siser_name { Записка друида }
 
 SickSiser { Записка из лагеря разбойников }
 
-armor_chest_light_atlanter_name { Руническая броня прошлого }
+armor_chest_light_atlanter_name { Рунические Доспехи Прошедших }
 
-armor_chest_heavy_atlanter_name { Руническое вооружение прошлого }
+armor_chest_heavy_atlanter_name { Руническое Вооружение Прошедших }
 
-armor_chest_druid_atlanter_name { Руническое одеяние прошлого }
+armor_chest_druid_atlanter_name { Руническое Одеяние Прошедших }
 
-armor_chest_druid_atlanter_description { Древняя броня, выкованная заново. Один ее вид свидетельствует о ее силе. }
+armor_chest_druid_atlanter_description { Вновь выкованные, древние доспехи. Один только вид говорит об их могуществе. }
 
 item_letter_library_0_name { История рунной магии I }
 
@@ -1520,15 +1520,15 @@ item_letter_library_2_name { История рунной магии III }
 
 item_letter_library_3_name { История рунной магии IV }
 
-item_letter_library_circleRoom_note1_name { Круг телепортации }
+item_letter_library_circleRoom_note1_name { Круг Телепортации }
 
-item_letter_library_circleRoom_note2_name { Темное серебро }
+item_letter_library_circleRoom_note2_name { Темное Серебро }
 
-item_letter_library_energyRoom_note_name { Рунные камни }
+item_letter_library_energyRoom_note_name { Рунные Камни }
 
-item_letter_library_golemRoom_note1_name { Исследование: Магия природы }
+item_letter_library_golemRoom_note1_name { Исследование: Магия Природы }
 
-item_letter_library_golemRoom_note2_name { Исследование: Магия силы }
+item_letter_library_golemRoom_note2_name { Исследование: Сила Магии }
 
 item_letter_library_golemRoom_note3_name { Несчастный случай с огненной руной }
 
@@ -1548,11 +1548,11 @@ item_letter_shrine_apus_circinus_name { Святилище Апуса }
 
 item_letter_shrine_bootes_auriga_name { Святилище Волопаса }
 
-item_letter_shrine_cygnus_name { Святилище Лебедя }
+item_letter_shrine_cygnus_name { Святилище Сигнуса }
 
 item_letter_shrine_luna_name { Святилище Луны }
 
-item_letter_shrine_sol_name { Святилище Солнца }
+item_letter_shrine_sol_name { Святилище Сол }
 
 item_letter_shrine_terra_borealis_name { Святилище Терры }
 
@@ -1562,7 +1562,7 @@ key_sleepingTavernKey_name { Ключ от комнаты }
 
 key_sleepingTavernKey_description { Я снял комнату Олафа наверху на одну ночь. }
 
-item_strangeFossil_name { Странная окаменелость }
+item_strangeFossil_name { Странная Окаменелость }
 
 letter_leru_hint01_name { Первый рисунок сна Леру }
 
@@ -1570,115 +1570,115 @@ letter_leru_hint02_name { Второй рисунок сна Леру }
 
 armor_chest_nemeton_social_name_name { Одеяние Неметона }
 
-armor_chest_tunic_ragged_2_name { Разрушенная броня }
+armor_chest_tunic_ragged_2_name { Разрушенная Броня }
 
 armor_chest_tunic_ragged_2_description { Здесь это может сойти за броню... если под рукой нет ничего другого. }
 
-armor_chest_tunic_noble_name_name { Прекрасное одеяние }
+armor_chest_tunic_noble_name_name { Прекрасное Одеяние }
 
-armor_chest_tunic_noble_name_description { У тебя не будет второго шанса произвести первое впечатление. В этом я выгляжу довольно круто. }
+armor_chest_tunic_noble_name_description { У вас нет второго шанса произвести первое впечатление. В этом я выгляжу довольно стильно. }
 
-armor_chest_bandit_T1_name { Легкая броня бандитов }
+armor_chest_bandit_T1_name { Легкая Броня Бандитов }
 
-armor_chest_bandit_T2_name { Средняя броня бандитов }
+armor_chest_bandit_T2_name { Средняя Броня Бандитов }
 
 armor_chest_bandit_T2_description { Служит средством устрашения, а не защиты. }
 
-armor_chest_bandit_T4_name { Тяжелая броня бандитов }
+armor_chest_bandit_T4_name { Тяжелая Броня Бандитов }
 
-armor_chest_bandit_T4_description { Символ статуса и защита в одном удобном пакете. }
+armor_chest_bandit_T4_description { Символ статуса и защиты в одном удобном изделии. }
 
-helmet_crown_name_name { Древний головной убор }
+helmet_crown_name_name { Древний Головной Убор }
 
-helmet_crown_name_description { Кто мог когда-то носить это? }
+helmet_crown_name_description { Кто мог носить это? }
 
-helmet_mask_empathetic_name_name { Маска сочувствия }
+helmet_mask_empathetic_name_name { Маска Сочувствия }
 
-helmet_mask_empathetic_name_description { Только те, кто обращает внимание на своих собратьев, оценят ценность этой маски. }
+helmet_mask_empathetic_name_description { Лишь те, кто заботится о своих близких, могут оценить эту маску по достоинству. }
 
-helmet_mask_arrogant_name_name { Маска превосходства }
+helmet_mask_arrogant_name_name { Маска Превосходства }
 
-helmet_mask_arrogant_name_description { Только те, кто уверен в себе, оценят ценность этой маски. }
+helmet_mask_arrogant_name_description { Лишь те, кто уверен в себе, смогут оценить эту маску по достоинству. }
 
-helmet_mask_rational_name_name { Маска проницательности }
+helmet_mask_rational_name_name { Маска Проницательности }
 
-helmet_mask_rational_name_description { Только те, кто мыслит критически и аналитически, оценят ценность этой маски. }
+helmet_mask_rational_name_description { Лишь те, кто мыслит критически и аналитически, могут оценить эту маску по достоинству. }
 
-helmet_nemeton_guard1_name_name { Легкий шлем Неметона }
+helmet_nemeton_guard1_name_name { Легкий Шлем Неметона }
 
-helmet_nemeton_guard2_name_name { Тяжёлый шлем Неметона }
+helmet_nemeton_guard2_name_name { Тяжёлый Шлем Неметона }
 
-helmet_ruinenlager_guard1_name_name { Простой шлем Ремнантов }
+helmet_ruinenlager_guard1_name_name { Простой Шлем Ремнантов }
 
-helmet_ruinenlager_guard2_name_name { Тяжёлый шлем Ремнантов }
+helmet_ruinenlager_guard2_name_name { Тяжёлый Шлем Ремнантов }
 
-helmet_cauldron_name_name { Котел }
+helmet_cauldron_name_name { Котёл }
 
 helmet_cauldron_name_description { Следите за своими вещами, пока вы их носите. }
 
-helmet_leathercap_name_name { Кожаная кепка }
+helmet_leathercap_name_name { Кожаная Кепка }
 
 helmet_leathercap_name_description { Выглядит модно. Вам идёт. }
 
-helmet_gladiator_name_name { Шлем гладиатора }
+helmet_gladiator_name_name { Шлем Гладиатора }
 
-helmet_gladiator_name_description { Вы можете наблюдать за своими будущими жертвами через узкую щель. }
+helmet_gladiator_name_description { Можно смотреть на своих будущих жертв через узкую прорезь. }
 
 helmet_blindfold_dark_name_name { Темная повязка на глаза }
 
-helmet_blindfold_dark_name_description { Вы все еще можете видеть все через узкую щель. И вы будете выглядеть гораздо более загадочно! }
+helmet_blindfold_dark_name_description { Вы все еще можете видеть через узкую щель. И вы будете выглядеть гораздо более загадочно! }
 
 helmet_blindfold_light_name_name { Яркая повязка на глаза }
 
-helmet_atlanter_name_name { Старый шлем }
+helmet_atlanter_name_name { Шлем Прошедших }
 
 helmet_atlanter_name_description { Древний шлем, который, вероятно, никто не носил уже много веков. }
 
-helmet_straw_name_name { Соломенная шляпа }
+helmet_straw_name_name { Соломенная Шляпа }
 
-helmet_straw_name_description { Эта соломенная шляпа все еще выглядит довольно круто, хотя ее часто чинили. Кто-то чертовски хорошо о ней заботился. }
+helmet_straw_name_description { Эта соломенная шляпа по-прежнему выглядит довольно стильно, хотя ее часто чинили. Кто-то чертовски хорошо о ней заботился. }
 
-helmet_hood_bandit_name_name { Бандитка-капюшон }
+helmet_hood_bandit_name_name { Капюшон Бандита }
 
 helmet_hood_bandit_name_description { Скрывает ваше лицо и ваши намерения. }
 
-helmet_hood_bandit_t4_name_name { Тяжёлый капюшон бандита }
+helmet_hood_bandit_t4_name_name { Тяжёлый Капюшон Бандита }
 
-helmet_barbarian_name_name { Шлем варвара }
+helmet_barbarian_name_name { Шлем Варвара }
 
 helmet_barbarian_name_description { Шлем для варвара. На внутренней стороне выгравирована буква «С». }
 
-helmet_mask_sheep_name_name { Маска овцы }
+helmet_mask_sheep_name_name { Маска Овцы }
 
-helmet_mask_sheep_name_description { Бааа! }
+helmet_mask_sheep_name_description { Бе-е-е! }
 
-helmet_onion_name_name { Луковый шлем }
+helmet_onion_name_name { Луковый Шлем }
 
 helmet_onion_name_description { Шлем необычной формы. }
 
-helmet_mask_vodoo_name_name { Маска вуду }
+helmet_mask_vodoo_name_name { Маска Вуду }
 
 helmet_mask_vodoo_name_description { Говорят, эта маска обладает магической силой. }
 
-helmet_mask_frog_name_name { Маска лягушки }
+helmet_mask_frog_name_name { Маска Лягушки }
 
-helmet_mask_frog_name_description { Риббит! }
+helmet_mask_frog_name_description { Ква-Ква! }
 
-helmet_mask_death_name_name { Маска смерти }
+helmet_mask_death_name_name { Маска Смерти }
 
 helmet_mask_death_name_description { Жутковато. Страшно. Но довольно хорошо сделано. }
 
-helmet_mask_obito_name_name { Маска вихря }
+helmet_mask_obito_name_name { Маска Вихря }
 
 helmet_mask_obito_name_description { Центр спирали — глаз. }
 
-helmet_mushroom_name_name { Грибная шапка }
+helmet_mushroom_name_name { Грибная Шапка }
 
-helmet_mushroom_name_description { Если я закопаюсь в песок, оставив только голову, кто-нибудь меня соберет? }
+helmet_mushroom_name_description { Если я закопаюсь в песок, оставив только голову, кто-нибудь меня соберёт? }
 
-helmet_draugr_dark_name_name { Шлем былых мраков }
+helmet_draugr_dark_name_name { Тёмный Шлем Прошедших }
 
-helmet_draugr_mage_name_name { Шлем былых мраков }
+helmet_draugr_mage_name_name { Шлем Тёмного Мага Прошедших }
 
 item_sheepfur_name { Овчина }
 
@@ -1692,19 +1692,19 @@ note_naughty_female_description { Рисунок красивой голой ж�
 
 misc_map_nemeton_name { Карта Неметона }
 
-misc_map_ruincamp_name { Карта лагеря выживших }
+misc_map_ruincamp_name { Карта лагеря Ремнантов }
 
-misc_map_leuchtwald_name { Карта Первобытного леса }
+misc_map_leuchtwald_name { Карта Первобытного Леса }
 
 misc_worldmap_detailed_name { Карта Дровы }
 
-misc_worldmap_detailed_description { Нарисовано одним «Леру». }
+misc_worldmap_detailed_description { Нарисовано «Леру». }
 
-misc_worldmap_shrines_name { Карта святилищ }
+misc_worldmap_shrines_name { Карта Святилищ }
 
-armor_chest_ruinenlager_gladiator_name { Доспехи гладиаторов }
+armor_chest_ruinenlager_gladiator_name { Доспехи Гладиаторов }
 
-armor_chest_ruinenlager_gladiator_description { За каждый 1% потерянного здоровья вы получаете на 1% меньше урона — до максимума в 90%<br><br>Доспехи, пропитанные кровью моих врагов. Победа за мной. }
+armor_chest_ruinenlager_gladiator_description { За каждый 1% потерянного здоровья вы получаете на 1% меньше урона(максимальное снижение - 90%) <br><br>Доспехи, пропитанные кровью врагов. Победа за мной. }
 
 misc_bagOfCurrency_big_name { Большой мешок, наполненный монетами }
 
@@ -1712,19 +1712,19 @@ item_letterRedTower_0_name { Туман близко }
 
 item_letterRedTower_1_name { Падение II }
 
-item_letterRedTower_2_name { Разгневанные божества }
+item_letterRedTower_2_name { Разгневанные Божества }
 
-item_letterRedTower_3_name { Загадочная записка }
+item_letterRedTower_3_name { Загадочная Записка }
 
 item_letterRedTower_5_name { Падение I }
 
 item_AldriksNote_name { Записка Алдрика }
 
-item_letterAtlanter_AtlanterCreation_name { Создание прошлого }
+item_letterAtlanter_AtlanterCreation_name { Основание Прошедших }
 
-item_letterAtlanter_AtlanterProblems_name { Трудности прошлого }
+item_letterAtlanter_AtlanterProblems_name { Трудности Прошедших }
 
-item_letterAtlanter_AtlanterRevolt_name { Бунт прошлого }
+item_letterAtlanter_AtlanterRevolt_name { Бунт Прошедших }
 
 item_letterAtlanter_CancelledResearch_name { Отмена исследования }
 
@@ -1736,21 +1736,21 @@ item_letterAtlanter_DangerousTravels2_name { Опасное путешестви
 
 item_letterAtlanter_DrivaniusAttitude_name { Убеждения Дриваниуса }
 
-item_letterAtlanter_EmergingFog_name { Туман накатывает }
+item_letterAtlanter_EmergingFog_name { Туман надвигается }
 
 item_letterAtlanter_Extractor2_name { Экстрактор II }
 
-item_letterAtlanter_Eye_name { Имперский глаз }
+item_letterAtlanter_Eye_name { Имперское Око }
 
-item_letterAtlanter_FirstDownfall_name { Первое падение божеств }
+item_letterAtlanter_FirstDownfall_name { Падение Первого Божества }
 
 item_letterAtlanter_ItsMoreDangerous_name { Дрова становится более опасной I }
 
 item_letterAtlanter_ItsMoreDangerous2_name { Дрова становится более опасной II }
 
-item_letterAtlanter_LightAndDarkness_name { Свет и тень }
+item_letterAtlanter_LightAndDarkness_name { Свет и Тень }
 
-item_letterAtlanter_NewsRedTower_name { Циркуляр из Красной башни }
+item_letterAtlanter_NewsRedTower_name { Указ из Красной Башни }
 
 item_letterAtlanter_OlafDiary_name { Старый дневник Олафа }
 
@@ -1772,51 +1772,51 @@ item_letterAtlanter_ShiftingPriorities_name { Изменение приорит�
 
 item_letterAtlanter_SpreadingDanger_name { Опасность распространяется }
 
-item_letterAtlanter_Stars_name { Что написано на звездах? }
+item_letterAtlanter_Stars_name { Что предсказывают звёзды? }
 
 item_letterAtlanter_ThirdDownfall_name { Падение Третьего Божества }
 
-item_letterAtlanter_ToTheRuinRaiders_name { К рейдерам Руин }
+item_letterAtlanter_ToTheRuinRaiders_name { Руинным Рейдерам }
 
-item_letterAtlanter_WhereIsDrivanius_name { Где Дриваниус? Я }
+item_letterAtlanter_WhereIsDrivanius_name { Где Дриваниус? I }
 
 item_letterAtlanter_WhereIsDrivanius2_name { Где Дриваниус? II }
 
-item_letterAtlanter_Workerletter_name { Письмо от рабочего }
+item_letterAtlanter_Workerletter_name { Письмо от Рабочего }
 
-item_letterCelts_Anatoli_name { Беспокойства Анатолия }
+item_letterCelts_Anatoli_name { Беспокойства Анатоли }
 
 item_letterCelts_BoundaryStone_name { Пограничные камни и Неметон }
 
 item_letterCelts_Diemo_name { Мысли Диемо о Неметоне }
 
-item_letterCelts_Jero_name { Мнение Джеро о божествах }
+item_letterCelts_Jero_name { Мнение Джеро о Божествах }
 
 item_letterCelts_Nemeton_name { Основание Неметона }
 
 item_letterCelts_Roarke_name { Странные идеи Рорка }
 
-item_letterCelts_SafeHaven_name { Цель убежища }
+item_letterCelts_SafeHaven_name { Назначение Убежища }
 
-item_letterCelts_Treason_name { Цель убежища }
+item_letterCelts_Treason_name { Назначение Убежища }
 
-item_HiddenTreasure_name { Скрытое сокровище }
+item_HiddenTreasure_name { Спрятанное Сокровище }
 
-item_blackboard_Butterflies_name { Уведомление: Помогите роще }
+item_blackboard_Butterflies_name { Сообщение: Спаси Рощу }
 
-item_letterAtlanter_Arrival_name { Прибытие бывших }
+item_letterAtlanter_Arrival_name { Прибытие Прошедших }
 
-category_keysAndQuestItems { Ключи и предметы для квеста }
+category_keysAndQuestItems { Ключи и квестовые предметы }
 
-weapon_sword_draugrIronBlade_name { Меч драугра }
+weapon_sword_draugrIronBlade_name { Меч Драугра }
 
-weapon_spear_draugr_name { Копье драугра }
+weapon_spear_draugr_name { Копье Драугра }
 
-weapon_shield_draugr_name { Щит драугра }
+weapon_shield_draugr_name { Щит Драугра }
 
-weapon_axe_improvisedpickaxe_name { Идентификатор: weapon_axe_improvisedpickaxe }
+weapon_axe_improvisedpickaxe_name { Id: weapon_axe_improvisedpickaxe }
 
-helmet_earprotection_name_description { Некоторый шум просто вредит. Эти восковые комки помогают с этим. }
+helmet_earprotection_name_description { Некоторый шум причиняет боль. Эти восковые шарики помогают с этим. }
 
 armor_chest_lendha_dylara_name { Доспехи и обувь Дилары }
 
@@ -1824,47 +1824,47 @@ item_stalker_egg_name { Яйцо Щуптора }
 
 item_headleshen_name { Голова Лешего }
 
-item_shadowfur_name { Теневое пальто }
+item_shadowfur_name { Теневое Пальто }
 
-item_fogears_name { Туманные уши }
+item_fogears_name { Туманные Уши }
 
-item_foxpaw_name { Лисолапка }
+item_foxpaw_name { Лапка Лисы }
 
-item_foodpile_strong_name { Прыгающий окунь }
+item_foodpile_strong_name { Прыгающий Окунь }
 
 item_fish_trout_name { Форель }
 
-item_fish_trout_description { Это все еще сырое. Не подходит для употребления в пищу человеком. }
+item_fish_trout_description { сё ещё сырое. Не подходит для употребления в пищу. }
 
-item_fish_dead_name { Рыба-смерть }
+item_fish_dead_name { Рыба-Смерть }
 
-item_fish_dead_description { Это все еще сырое. Не подходит для употребления в пищу человеком. }
+item_fish_dead_description { Всё ещё сырое. Не подходит для употребления в пищу. }
 
-recipe_foodpile_strong_name { Рецепт: прыгающий окунь }
+recipe_foodpile_strong_name { Рецепт: Прыгающий Окунь }
 
 letter_leru_hint03_name { Третий рисунок сна Леру }
 
-key_chest_BanditCamp_name { Тяжёлый ключ }
+key_chest_BanditCamp_name { Тяжёлый Ключ }
 
-key_chest_BanditCamp_description { Большой ключ, который я снял с группы бандитов. }
+key_chest_BanditCamp_description { Большой ключ, который я забрал у группы разбойников. }
 
 item_chunnaic_diamond_name { Алмаз Чуннаика }
 
-item_roastedMeat_t2_name { Сочное жареное мясо }
+item_roastedMeat_t2_name { Сочное Жареное Мясо }
 
-item_roastedTrout_name { Жареная форель }
+item_roastedTrout_name { Жареная Форель }
 
-recipe_meat_cooked_name { Рецепт: жареное жилистое мясо }
+recipe_meat_cooked_name { Рецепт: Жареное Жилистое Мясо }
 
-recipe_meat_2_name { Рецепт: сочное жареное мясо }
+recipe_meat_2_name { Рецепт: Сочное Жареное Мясо }
 
-item_ring_god_name { Благословение божеств }
+item_ring_god_name { Благословение Божеств }
 
-item_ring_god_description { Мой собственный талисман. }
+item_ring_god_description { Мой собственный Талисман. }
 
-key_harald_name { Ключ к шахте }
+key_harald_name { Ключ от шахты }
 
-key_harald_description { С этим я могу войти в шахту Харальда и добыть там немного серебра. }
+key_harald_description { С этим я могу войти в шахту Харальда и добыть кучу серебра. }
 
 item_letterTableBrutus_3_name { Финальное исследование Дриваниуса I }
 
@@ -1872,29 +1872,29 @@ helmet_brutus_name_name { Шлем Нексуса }
 
 helmet_brutus_name_description { Странный шлем, украшенный множеством рун. }
 
-item_letter_foresttavern_chapter1_name { Охота на потрошителя 1 }
+item_letter_foresttavern_chapter1_name { Охота на Потрошителя I }
 
-item_letter_foresttavern_chapter3_name { Охота на потрошителя 2 }
+item_letter_foresttavern_chapter3_name { Охота на Потрошителя II }
 
-category_traps { Пригодные предметы }
+category_traps { Используемые предметы }
 
 item_MeriksBusiness_name { Письмо Мерику }
 
 item_KendrickThreat_name { Письмо с угрозами }
 
-item_KendrickHideout_name { Скрытое письмо }
+item_KendrickHideout_name { Тайное Письмо }
 
-item_KendrickGoodsBook_name { Грузовой манифест }
+item_KendrickGoodsBook_name { Грузовая Декларация }
 
 category_crafting { Материалы для крафта }
 
-category_saleitems { Разное, Распродажа, Мусор }
+category_saleitems { Разное, Товары на продажу, Мусор }
 
-item_letterAtlanter_Shrines_name { Святилища прошлого }
+item_letterAtlanter_Shrines_name { Святилища Прошедших }
 
-item_letterCityDungeon_GodPaintings_name { Фрески Изображая богов }
+item_letterCityDungeon_GodPaintings_name { Фрески изображающие Богов }
 
-item_letter_Reija_name { Странные наблюдения Дриваниуса }
+item_letter_Reija_name { Странные Наблюдения Дриваниуса }
 
 weapon_spear_georg_name { Копье Георга }
 
@@ -1906,25 +1906,25 @@ weapon_sword_jendra_description { }
 
 flow_ricochet_name { Рикошет }
 
-flow_ricochet_description { Вы выпускаете снаряд, который наносит [WeaponDamagePercent] урона от оружия, прежде чем он отрикошетит от цели и поразит других противников поблизости. }
+flow_ricochet_description { Вы выпускаете снаряд, который наносит [WeaponDamagePercent] урона от оружия, а затем рикошетит от противника в ближайших противников. }
 
 recipe_flow_ricochet_name { Способность: Рикошет }
 
-flow_bruntShot_name { Контузирующий выстрел }
+flow_bruntShot_name { Оглушающий выстрел }
 
 flow_bruntShot_description { Вы выпускаете стрелу, которая наносит [WeaponDamagePercent] урона от оружия и оглушает противников на [StunTime] секунд. }
 
-recipe_flow_bruntShot_name { Способность: Контузирующий выстрел }
+recipe_flow_bruntShot_name { Способность: Оглушающий выстрел }
 
 flow_poisonArrow_name { Отравленная стрела }
 
 flow_poisonArrow_description { Вы выпускаете стрелу, которая наносит [WeaponDamagePercent] урона от оружия и отравляет противников. }
 
-recipe_flow_poisonArrow_name { Способность: Отравленная стрела}
+recipe_flow_poisonArrow_name { Способность: Отравленная Стрела}
 
 key_tavernKey_Cellar_name { Ключ от погреба}
 
-key_tavernKey_Cellar_description { Ключ от погреба таверны в лагере Оставшихся. }
+key_tavernKey_Cellar_description { Ключ от погреба таверны в лагере Ремнантов. }
 
 helmet_none_name { Id: helmet_none }
 
@@ -1932,19 +1932,19 @@ recipe_silverringstrength_2_name { Рецепт: Кольцо с узлом Да
 
 recipe_silverringstrength_2_description { recipe_silverringstrength_2_description }
 
-recipe_silberringskill_2_name { Рецепт: Серебряное кольцо наемного убийцы }
+recipe_silberringskill_2_name { Рецепт: Серебряное Кольцо Наемного Убийцы }
 
 recipe_silberringskill_2_description { recipe_silberringskill_2_description }
 
-recipe_silberringmind_2_name { Рецепт: Изысканное кольцо духов }
+recipe_silberringmind_2_name { Рецепт: Изысканное Кольцо Духов }
 
 recipe_silberringmind_2_description { recipe_silberringmind_2_description }
 
-item_Whiskey_StoneWall_name { Виски Stonewall }
+item_Whiskey_StoneWall_name { Виски "Стоунволл" }
 
-item_Whiskey_StoneWall_description { Старая бутылка с изображением старой стены. }
+item_Whiskey_StoneWall_description { Старая бутылка с изображением древней стены. }
 
-item_trinket_boxer_name { Тернистый цестус }
+item_trinket_boxer_name { Колючий Цестус }
 
 item_trinket_boxer_description { Ваши безоружные атаки всегда наносят критические удары. }
 
@@ -1954,51 +1954,51 @@ item_bigligering_description { }
 
 recipe_yggdrasil_name { Рецепт: Кольцо Иггдрасиля }
 
-misc_key_locked_door_name { [LOCA] Ключ не найден: misc_key_locked_door_name. Путь: Предметы }
+misc_key_locked_door_name { [LOCA] Key not found: misc_key_locked_door_name. Path: Items }
 
-misc_key_locked_door_description { [LOCA] Ключ не найден: misc_key_locked_door_description. Путь: Элементы }
+misc_key_locked_door_description { [LOCA] Key not found: misc_key_locked_door_description. Path: Items }
 
-cons_flow_conjure_ripper_name { Идентификатор: cons_flow_conjure_ripper }
+cons_flow_conjure_ripper_name { Id: cons_flow_conjure_ripper }
 
-cons_flow_natureSpirit_npc_name { Идентификатор: cons_flow_natureSpirit_npc }
+cons_flow_natureSpirit_npc_name { Id: cons_flow_natureSpirit_npc }
 
-cons_flow_aggressiveCry_npc_name { Идентификатор: cons_flow_aggressiveCry_npc }
+cons_flow_aggressiveCry_npc_name { Id: cons_flow_aggressiveCry_npc }
 
-cons_flow_bullRush_bady_name { Идентификатор: cons_flow_bullRush_bady }
+cons_flow_bullRush_bady_name { Id: cons_flow_bullRush_bady }
 
-cons_flow_heavyBlow_bady_name { Идентификатор: cons_flow_heavyBlow_bady }
+cons_flow_heavyBlow_bady_name { Id: cons_flow_heavyBlow_bady }
 
-cons_flow_infection_bady_name { Идентификатор: cons_flow_infection_bady }
+cons_flow_infection_bady_name { Id: cons_flow_infection_bady }
 
-cons_flow_shockingBlow_bady_name { Идентификатор: cons_flow_shockingBlow_bady }
+cons_flow_shockingBlow_bady_name { Id: cons_flow_shockingBlow_bady }
 
-item_poisonedThrowingKnife_npc_fan_name { Идентификатор: item_poisonedThrowingKnife_npc_fan }
+item_poisonedThrowingKnife_npc_fan_name { Id: item_poisonedThrowingKnife_npc_fan }
 
-item_poisonedThrowingKnife_npc_fast_name { Идентификатор: item_poisonedThrowingKnife_npc_fast }
+item_poisonedThrowingKnife_npc_fast_name { Id: item_poisonedThrowingKnife_npc_fast }
 
-item_splittertrap_npc_ebru_all_arena_name { Идентификатор: item_splittertrap_npc_ebru_all_arena }
+item_splittertrap_npc_ebru_all_arena_name { Id: item_splittertrap_npc_ebru_all_arena }
 
-item_splittertrap_npc_ebru_single_name { Идентификатор: item_splittertrap_npc_ebru_single }
+item_splittertrap_npc_ebru_single_name { Id: item_splittertrap_npc_ebru_single }
 
-flow_battleCry_npc_name { Идентификатор: flow_battleCry_npc }
+flow_battleCry_npc_name { Id: flow_battleCry_npc }
 
-item_Map_Treasure_Forest_name { Сокровище: Хвойный лес }
+item_Map_Treasure_Forest_name { Сокровище: Хвойный Лес }
 
 item_Map_Treasure_Garden_name { Сокровище: Руины }
 
-item_Map_Treasure_GeorgsFarm_name { Сокровище: Georgefarm }
+item_Map_Treasure_GeorgsFarm_name { Сокровище: Джорджфарм }
 
 item_Map_Treasure_Heath_name { Сокровище: Пустошь }
 
-item_Map_Treasure_PrimevalForest_name { Сокровище: Первобытный лес }
+item_Map_Treasure_PrimevalForest_name { Сокровище: Первобытный Лес }
 
-item_Map_Treasure_Rotmoor_name { Сокровище: Красные пустоши }
+item_Map_Treasure_Rotmoor_name { Сокровище: Красные болота }
 
-item_Map_Treasure_WayToMine_name { Сокровище: Путь к шахте }
+item_Map_Treasure_WayToMine_name { Сокровище: Путь к Шахте }
 
 item_trinket_doriansHeirloom_name { Реликвия Дориана }
 
-item_trinket_doriansHeirloom_description { Уменьшает получаемый урон от стойки и урон от фокуса на [PoiseValuePercent]. }
+item_trinket_doriansHeirloom_description { Уменьшает урон, получаемый в стойке, и урон от фокуса на [PoiseValuePercent]. }
 
 weapon_axe_blaansoldsword_name { Старый топор Блаана }
 
@@ -2008,29 +2008,29 @@ weapon_sword_carimasoldsword_name { Старый меч Каримы }
 
 weapon_sword_carimasoldsword_description { }
 
-item_wine_description { Тебе это должно понравиться. }
+item_wine_description { Тебе должно понравиться. }
 
-item_silverore_description { Нужно обработать в кричильне. }
+item_silverore_description { Нужно переалавить в печи. }
 
-item_ironore_description { Нужно обработать в кричильне. }
+item_ironore_description { Нужно переалавить в печи. }
 
-item_trinket_pureDmg_name { Месть лудильщика }
+item_trinket_pureDmg_name { Месть Ремесленника }
 
 item_trinket_pureDmg_description { Увеличивает урон от ловушек и метательных предметов на 100%. }
 
 item_VoragoFragment_0_name { Фрагмент эмблемы }
 
-item_VoragoFragment_0_description { Другая половина, похоже, отсутствует. Символ на ней нечетко различим. Может ли это быть ракушкой? }
+item_VoragoFragment_0_description { Другая половина, похоже, отсутствует. Символ на ней неразборчив. Быть может это ракушка? }
 
 item_letterAtlanter_Excalibur_name { Меч в камне }
 
 item_letterAtlanter_Excalibur_description { }
 
-item_KendrickSagar_name { Смятое письмо }
+item_KendrickSagar_name { Скомканное Письмо }
 
 item_KendrickSagar_description { }
 
-recipe_throwingknife_name { Рецепт: метательный нож }
+recipe_throwingknife_name { Рецепт: Метательный Нож }
 
 item_letterAtlanter_Extractor2_description { item_letterAtlanter_Extractor2_description }
 
