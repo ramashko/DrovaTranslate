@@ -457,7 +457,7 @@
 | IntroWorldDialog_ru.loc        | ✅                  |
 | Intro_ru.loc                   | ✅    |
 | ItemChooser_ru.loc             | ✅                  |
-| Items_ru.loc                   | Первые 1000          |
+| Items_ru.loc                   | ✅                  |
 | LastWorldDialogues_ru.loc      | ✅                  |
 | LeruDreams_ru.loc              | ✅    |
 | LerusDreams_ru.loc             | ✅    |
