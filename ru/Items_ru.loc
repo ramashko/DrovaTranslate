@@ -2010,9 +2010,9 @@ weapon_sword_carimasoldsword_description { }
 
 item_wine_description { Тебе должно понравиться. }
 
-item_silverore_description { Нужно переалавить в печи. }
+item_silverore_description { Нужно переплавить в печи. }
 
-item_ironore_description { Нужно переалавить в печи. }
+item_ironore_description { Нужно переплавить в печи. }
 
 item_trinket_pureDmg_name { Месть Ремесленника }
 
