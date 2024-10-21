@@ -8,7 +8,7 @@ popup_valueAboveTrader { Стоимость ваших товаров выше, 
 
 popup_valueBelowTrader { Торговец ожидает компенсацию в размере не менее $TRADEVAR:RightTableValue$ монет. }
 
-popup_generic { Хотите ли вы завершить транзакцию? }
+popup_generic { Хотите ли вы завершить обмен? }
 
 title { Бартер }
 
