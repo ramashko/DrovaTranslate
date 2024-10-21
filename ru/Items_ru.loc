@@ -286,13 +286,13 @@ weapon_dagger_bloodDagger_description { Когда народ восстанет
 
 weapon_sling_coarseSling_name { Грубая Праща }
 
-weapon_sling_simpleSlingshot_name { Простая Рогатка }
+weapon_sling_simpleSlingshot_name { Простая Праща }
 
-weapon_sling_heavySlingshot_name { Тяжелая Рогатка }
+weapon_sling_heavySlingshot_name { Тяжелая Праща }
 
-weapon_sling_headSlingshot_name { Точная Рогатка }
+weapon_sling_headSlingshot_name { Точная Праща }
 
-weapon_sling_battleSlingshot_name { Боевая Рогатка }
+weapon_sling_battleSlingshot_name { Боевая Праща }
 
 weapon_bow_simpleBow_name { Простой Лук }
 
@@ -396,7 +396,7 @@ item_luminousTruffle_name { Трюфель }
 
 item_slingermunition_name { Камень для Пращи }
 
-item_slingermunition_description { Боеприпасы для рогатки. Можно найти в реках. }
+item_slingermunition_description { Боеприпасы для пращи. Можно найти в реках. }
 
 item_ironore_name { Железная Руда }
 
