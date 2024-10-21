@@ -188,7 +188,7 @@ Talent_Sling_AddDmgOnPoise_desc { Если вы нарушите стойку п
 
 Talent_Sling_Ricochet_Name { Рикошет }
 
-Talent_Sling_Ricochet_Desc { Вы бросаете снаряд, который наносит [WeaponDamagePercent] урона, а затем рикошетит от противника в ближайших противников. }
+Talent_Sling_Ricochet_Desc { Вы выпускаете снаряд, который наносит [WeaponDamagePercent] урона, а затем рикошетит от противника в ближайших противников. }
 
 Talent_Sling_HeavyShot_Name { Оглушающий выстрел }
 
