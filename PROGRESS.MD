@@ -296,125 +296,125 @@
 | GUI/AbilityMenu_ru.loc          | ✅                  |
 | GUI/ChapterProgress_ru.loc      | ✅                  |
 | GUI/CharacterCreation_ru.loc     | ✅                  |
-| GUI/Fishing_ru.loc              | Машинный перевод    |
+| GUI/Fishing_ru.loc              | ✅    |
 | GUI/GameOver_ru.loc             | ✅                  |
-| GUI/Generic_ru.loc              | Машинный перевод    |
+| GUI/Generic_ru.loc              | ✅    |
 | GUI/Input_ru.loc                | ✅                  |
-| GUI/Journal_ru.loc              | Машинный перевод    |
-| GUI/Learn_ru.loc                | Машинный перевод    |
-| GUI/LoadingScreens_ru.loc       | Машинный перевод    |
-| GUI/Lockpick_ru.loc             | Машинный перевод    |
-| GUI/LootMenu_ru.loc             | Машинный перевод    |
-| GUI/MainMenu_ru.loc             | Машинный перевод    |
-| GUI/Map_ru.loc                  | Машинный перевод    |
-| GUI/MenuShortcuts_ru.loc        | Машинный перевод    |
-| GUI/Merchant_ru.loc             | Машинный перевод    |
-| GUI/Mining_ru.loc               | Машинный перевод    |
-| GUI/PauseMenu_ru.loc            | Машинный перевод    |
-| GUI/PlayerInventory_ru.loc      | Машинный перевод    |
-| GUI/PlayerMenu_ru.loc           | Машинный перевод    |
-| GUI/RuneDrawing_ru.loc          | Машинный перевод    |
-| GUI/SaveMenu_ru.loc             | Машинный перевод    |
-| GUI/SleepMenu_ru.loc            | Машинный перевод    |
-| GUI/Stats_ru.loc                | Машинный перевод    |
-| GUI/TalentMenu_ru.loc           | Машинный перевод    |
-| GUI/UserReport_ru.loc           | Машинный перевод    |
-| HUD/PopUps_ru.loc                           | Машинный перевод    |
-| Journal/AlcoholForSecretReveal_ru.loc       | Машинный перевод    |
-| Journal/AlrauneForAidan_ru.loc              | Машинный перевод    |
-| Journal/AnOldRecipe_ru.loc                  | Машинный перевод    |
-| Journal/Armor_ru.loc                         | Машинный перевод    |
-| Journal/AttackWoodcamp_ru.loc                | Машинный перевод    |
-| Journal/AufnahmezeremonieRuinenlager_ru.loc | Машинный перевод    |
-| Journal/AuwaldDungeon_ru.loc                 | Машинный перевод    |
-| Journal/BanditMine_ru.loc                   | Машинный перевод    |
-| Journal/BanditsOnTheBridge_ru.loc           | Машинный перевод    |
-| Journal/BeautySleep_ru.loc                   | Машинный перевод    |
-| Journal/BertinesRevenge_ru.loc              | Машинный перевод    |
-| Journal/BetThat_ru.loc                       | Машинный перевод    |
-| Journal/BirkasNewLife_ru.loc                | Машинный перевод    |
-| Journal/BrokenTrust_ru.loc                   | Машинный перевод    |
-| Journal/Brutus_ru.loc                       | Машинный перевод    |
-| Journal/ButterfliesAllAround_ru.loc         | Машинный перевод    |
-| Journal/CityDungeon_ru.loc                  | Машинный перевод    |
-| Journal/DAS_WayToArenaMaster_ru.loc         | Машинный перевод    |
-| Journal/Debt_ru.loc                          | Машинный перевод    |
-| Journal/DeepInTheAkademie_ru.loc            | Машинный перевод    |
-| Journal/DeepInTheMine_ru.loc                | Машинный перевод    |
-| Journal/DeepInTheSwamp_ru.loc               | Машинный перевод    |
-| Journal/DoroNemetonEscort_ru.loc            | Машинный перевод    |
-| Journal/Dreams_ru.loc                        | Машинный перевод    |
-| Journal/EnteringRedTowerML_ru.loc           | Машинный перевод    |
-| Journal/EntranceToShadyDistrict_ru.loc      | Машинный перевод    |
-| Journal/EverybodyUnderstandsThat_ru.loc     | Машинный перевод    |
-| Journal/ExpeditionNemeton_ru.loc            | Машинный перевод    |
-| Journal/ExpeditionRuinenlager_ru.loc        | Машинный перевод    |
-| Journal/FavourOfCraftsmenGardeners_ru.loc   | Машинный перевод    |
-| Journal/FavourOfCraftsmenSmith_ru.loc      | Машинный перевод    |
-| Journal/FeedingTheSheep_ru.loc              | Машинный перевод    |
-| Journal/FireFestival_ru.loc                  | Машинный перевод    |
-| Journal/FishingForDunja_ru.loc              | Машинный перевод    |
-| Journal/FoodForFarmers_ru.loc               | Машинный перевод    |
-| Journal/FoodInTheMine_ru.loc                | Машинный перевод    |
-| Journal/FreedomForThePiglets_ru.loc         | Машинный перевод    |
-| Journal/FrogsAndRustmoss_ru.loc             | Машинный перевод    |
-| Journal/GettingInvolved_ru.loc              | Машинный перевод    |
-| Journal/Graffiti_ru.loc                     | Машинный перевод    |
-| Journal/HauerNemeton_ru.loc                 | Машинный перевод    |
-| Journal/HuntTheRippers_ru.loc                | Машинный перевод    |
-| Journal/INeedToWorkAgain_ru.loc             | Машинный перевод    |
-| Journal/InsideRedTower_ru.loc               | Машинный перевод    |
-| Journal/ItPaidOff_ru.loc                    | Машинный перевод    |
-| Journal/JobForBoris_ru.loc                  | Машинный перевод    |
-| Journal/JournalGeneric_ru.loc               | Машинный перевод    |
-| Journal/Journal_IronForFarmers_ru.loc       | Машинный перевод    |
-| Journal/Journal_LostShoes_ru.loc            | Машинный перевод    |
-| Journal/JourneyToTheRoots_ru.loc            | Машинный перевод    |
-| Journal/KarottesWeapon_ru.loc               | Машинный перевод    |
-| Journal/LetterToAsmus_ru.loc                | Машинный перевод    |
-| Journal/LoadCrystals_ru.loc                 | Машинный перевод    |
-| Journal/LucrativeBusiness_ru.loc            | Машинный перевод    |
-| Journal/ManpowerForTheBridge_ru.loc         | Машинный перевод    |
-| Journal/NothingIsFree_ru.loc                | Машинный перевод    |
-| Journal/OldMan_ru.loc                       | Машинный перевод    |
-| Journal/OneFaction_ru.loc                   | Машинный перевод    |
-| Journal/OnlyOneThingHelps_ru.loc           | Машинный перевод    |
-| Journal/PaperChase_ru.loc                   | Машинный перевод    |
-| Journal/PartOfTheRuinenlager_ru.loc         | Машинный перевод    |
-| Journal/Rats_ru.loc                         | Машинный перевод    |
-| Journal/ReturnOrKeepTheRing_ru.loc          | Машинный перевод    |
-| Journal/RipperAmbush_ru.loc                 | Машинный перевод    |
-| Journal/ShotsForRipper_ru.loc               | Машинный перевод    |
-| Journal/ShowMeWhatYouGot_ru.loc             | Машинный перевод    |
-| Journal/SomeoneHasToDoIt_ru.loc             | Машинный перевод    |
-| Journal/StalkerFlussbett_ru.loc             | Машинный перевод    |
-| Journal/StolenWeapons_ru.loc                | Машинный перевод    |
-| Journal/TaronsLastPiglet_ru.loc             | Машинный перевод    |
-| Journal/TheBlackhead_ru.loc                 | Машинный перевод    |
-| Journal/TheCuriousRelic_ru.loc              | Машинный перевод    |
-| Journal/TheDoppelgangers_ru.loc             | Машинный перевод    |
-| Journal/TheFallowField_ru.loc               | Машинный перевод    |
-| Journal/TheLiesOfLocke_ru.loc               | Машинный перевод    |
-| Journal/TheOutcast_ru.loc                   | Машинный перевод    |
-| Journal/ThePoorSheep_ru.loc                 | Машинный перевод    |
-| Journal/TheRenegadeFriend_ru.loc            | Машинный перевод    |
-| Journal/TheSecretPlace_ru.loc               | Машинный перевод    |
-| Journal/TheWayToTheLeuchtwald_ru.loc        | Машинный перевод    |
-| Journal/TheWayToTheMine_ru.loc              | Машинный перевод    |
-| Journal/TiaasEintopf_ru.loc                 | Машинный перевод    |
-| Journal/TraderLostItem_ru.loc               | Машинный перевод    |
-| Journal/Traps_ru.loc                        | Машинный перевод    |
-| Journal/TrustTest_ru.loc                    | Машинный перевод    |
-| Journal/VoteFromBoris_ru.loc                | Машинный перевод    |
-| Journal/VoteFromEugen_ru.loc                | Машинный перевод    |
-| Journal/WayIntoTheCraftsHouse_ru.loc        | Машинный перевод    |
-| Journal/WayToTheLibrary_ru.loc              | Машинный перевод    |
-| Journal/WoodForAdwin_ru.loc                 | Машинный перевод    |
-| Journal/WorkerWorkerWorker_ru.loc            | Машинный перевод    |
-| Journal/WorkOnFarm_ru.loc                   | Машинный перевод    |
-| Journal/YouBetterKeepMeSafe_ru.loc          | Машинный перевод    |
-| Journal/YouDoNotFitHere_ru.loc              | Машинный перевод    |
-| Journal/YourOwnRunestone_ru.loc             | Машинный перевод    |
+| GUI/Journal_ru.loc              | ✅    |
+| GUI/Learn_ru.loc                | ✅    |
+| GUI/LoadingScreens_ru.loc       | ✅    |
+| GUI/Lockpick_ru.loc             | ✅    |
+| GUI/LootMenu_ru.loc             | ✅    |
+| GUI/MainMenu_ru.loc             | ✅    |
+| GUI/Map_ru.loc                  | ✅    |
+| GUI/MenuShortcuts_ru.loc        | ✅    |
+| GUI/Merchant_ru.loc             | ✅    |
+| GUI/Mining_ru.loc               | ✅    |
+| GUI/PauseMenu_ru.loc            | ✅    |
+| GUI/PlayerInventory_ru.loc      | ✅    |
+| GUI/PlayerMenu_ru.loc           | ✅    |
+| GUI/RuneDrawing_ru.loc          | ✅    |
+| GUI/SaveMenu_ru.loc             | ✅    |
+| GUI/SleepMenu_ru.loc            | ✅    |
+| GUI/Stats_ru.loc                | ✅    |
+| GUI/TalentMenu_ru.loc           | ✅    |
+| GUI/UserReport_ru.loc           | ✅    |
+| HUD/PopUps_ru.loc                           | ✅    |
+| Journal/AlcoholForSecretReveal_ru.loc       | ✅    |
+| Journal/AlrauneForAidan_ru.loc              | ✅    |
+| Journal/AnOldRecipe_ru.loc                  | ✅    |
+| Journal/Armor_ru.loc                         | ✅    |
+| Journal/AttackWoodcamp_ru.loc                | ✅    |
+| Journal/AufnahmezeremonieRuinenlager_ru.loc | ✅    |
+| Journal/AuwaldDungeon_ru.loc                 | ✅    |
+| Journal/BanditMine_ru.loc                   | ✅    |
+| Journal/BanditsOnTheBridge_ru.loc           | ✅    |
+| Journal/BeautySleep_ru.loc                   | ✅    |
+| Journal/BertinesRevenge_ru.loc              | ✅    |
+| Journal/BetThat_ru.loc                       | ✅    |
+| Journal/BirkasNewLife_ru.loc                | ✅    |
+| Journal/BrokenTrust_ru.loc                   | ✅    |
+| Journal/Brutus_ru.loc                       | ✅    |
+| Journal/ButterfliesAllAround_ru.loc         | ✅    |
+| Journal/CityDungeon_ru.loc                  | ✅    |
+| Journal/DAS_WayToArenaMaster_ru.loc         | ✅    |
+| Journal/Debt_ru.loc                          | ✅    |
+| Journal/DeepInTheAkademie_ru.loc            | ✅    |
+| Journal/DeepInTheMine_ru.loc                | ✅    |
+| Journal/DeepInTheSwamp_ru.loc               | ✅    |
+| Journal/DoroNemetonEscort_ru.loc            | ✅    |
+| Journal/Dreams_ru.loc                        | ✅    |
+| Journal/EnteringRedTowerML_ru.loc           | ✅    |
+| Journal/EntranceToShadyDistrict_ru.loc      | ✅    |
+| Journal/EverybodyUnderstandsThat_ru.loc     | ✅    |
+| Journal/ExpeditionNemeton_ru.loc            | ✅    |
+| Journal/ExpeditionRuinenlager_ru.loc        | ✅    |
+| Journal/FavourOfCraftsmenGardeners_ru.loc   | ✅    |
+| Journal/FavourOfCraftsmenSmith_ru.loc      | ✅    |
+| Journal/FeedingTheSheep_ru.loc              | ✅    |
+| Journal/FireFestival_ru.loc                  | ✅    |
+| Journal/FishingForDunja_ru.loc              | ✅    |
+| Journal/FoodForFarmers_ru.loc               | ✅    |
+| Journal/FoodInTheMine_ru.loc                | ✅    |
+| Journal/FreedomForThePiglets_ru.loc         | ✅    |
+| Journal/FrogsAndRustmoss_ru.loc             | ✅    |
+| Journal/GettingInvolved_ru.loc              | ✅    |
+| Journal/Graffiti_ru.loc                     | ✅    |
+| Journal/HauerNemeton_ru.loc                 | ✅    |
+| Journal/HuntTheRippers_ru.loc                | ✅    |
+| Journal/INeedToWorkAgain_ru.loc             | ✅    |
+| Journal/InsideRedTower_ru.loc               | ✅    |
+| Journal/ItPaidOff_ru.loc                    | ✅    |
+| Journal/JobForBoris_ru.loc                  | ✅    |
+| Journal/JournalGeneric_ru.loc               | ✅    |
+| Journal/Journal_IronForFarmers_ru.loc       | ✅    |
+| Journal/Journal_LostShoes_ru.loc            | ✅    |
+| Journal/JourneyToTheRoots_ru.loc            | ✅    |
+| Journal/KarottesWeapon_ru.loc               | ✅    |
+| Journal/LetterToAsmus_ru.loc                | ✅    |
+| Journal/LoadCrystals_ru.loc                 | ✅    |
+| Journal/LucrativeBusiness_ru.loc            | ✅    |
+| Journal/ManpowerForTheBridge_ru.loc         | ✅    |
+| Journal/NothingIsFree_ru.loc                | ✅    |
+| Journal/OldMan_ru.loc                       | ✅    |
+| Journal/OneFaction_ru.loc                   | ✅    |
+| Journal/OnlyOneThingHelps_ru.loc           | ✅    |
+| Journal/PaperChase_ru.loc                   | ✅    |
+| Journal/PartOfTheRuinenlager_ru.loc         | ✅    |
+| Journal/Rats_ru.loc                         | ✅    |
+| Journal/ReturnOrKeepTheRing_ru.loc          | ✅    |
+| Journal/RipperAmbush_ru.loc                 | ✅    |
+| Journal/ShotsForRipper_ru.loc               | ✅    |
+| Journal/ShowMeWhatYouGot_ru.loc             | ✅    |
+| Journal/SomeoneHasToDoIt_ru.loc             | ✅    |
+| Journal/StalkerFlussbett_ru.loc             | ✅    |
+| Journal/StolenWeapons_ru.loc                | ✅    |
+| Journal/TaronsLastPiglet_ru.loc             | ✅    |
+| Journal/TheBlackhead_ru.loc                 | ✅    |
+| Journal/TheCuriousRelic_ru.loc              | ✅    |
+| Journal/TheDoppelgangers_ru.loc             | ✅    |
+| Journal/TheFallowField_ru.loc               | ✅    |
+| Journal/TheLiesOfLocke_ru.loc               | ✅    |
+| Journal/TheOutcast_ru.loc                   | ✅    |
+| Journal/ThePoorSheep_ru.loc                 | ✅    |
+| Journal/TheRenegadeFriend_ru.loc            | ✅    |
+| Journal/TheSecretPlace_ru.loc               | ✅    |
+| Journal/TheWayToTheLeuchtwald_ru.loc        | ✅    |
+| Journal/TheWayToTheMine_ru.loc              | ✅    |
+| Journal/TiaasEintopf_ru.loc                 | ✅    |
+| Journal/TraderLostItem_ru.loc               | ✅    |
+| Journal/Traps_ru.loc                        | ✅    |
+| Journal/TrustTest_ru.loc                    | ✅    |
+| Journal/VoteFromBoris_ru.loc                | ✅    |
+| Journal/VoteFromEugen_ru.loc                | ✅    |
+| Journal/WayIntoTheCraftsHouse_ru.loc        | ✅    |
+| Journal/WayToTheLibrary_ru.loc              | ✅    |
+| Journal/WoodForAdwin_ru.loc                 | ✅    |
+| Journal/WorkerWorkerWorker_ru.loc            | ✅    |
+| Journal/WorkOnFarm_ru.loc                   | ✅    |
+| Journal/YouBetterKeepMeSafe_ru.loc          | ✅    |
+| Journal/YouDoNotFitHere_ru.loc              | ✅    |
+| Journal/YourOwnRunestone_ru.loc             | ✅    |
 | Letters/Asmus_ru.loc           | ✅                  |
 | Letters/AtlanterShrine_ru.loc  | ✅                  |
 | Letters/Atlanter_ru.loc        | ✅                  |
@@ -455,18 +455,18 @@
 | Gates_ru.loc                   | ✅                  |
 | IntroCutscene_ru.loc           | ✅                  |
 | IntroWorldDialog_ru.loc        | ✅                  |
-| Intro_ru.loc                   | Машинный перевод    |
+| Intro_ru.loc                   | ✅    |
 | ItemChooser_ru.loc             | ✅                  |
 | Items_ru.loc                   | Первые 1000          |
 | LastWorldDialogues_ru.loc      | ✅                  |
-| LeruDreams_ru.loc              | Машинный перевод    |
-| LerusDreams_ru.loc             | Машинный перевод    |
-| NemetonWorldDialog_ru.loc      | Машинный перевод    |
-| NewWorldDialog_ru.loc          | Машинный перевод    |
-| NPC_Names_ru.loc               | Машинный перевод    |
-| Option_GUI_ru.loc              | Машинный перевод    |
+| LeruDreams_ru.loc              | ✅    |
+| LerusDreams_ru.loc             | ✅    |
+| NemetonWorldDialog_ru.loc      | ✅    |
+| NewWorldDialog_ru.loc          | ✅    |
+| NPC_Names_ru.loc               | ✅    |
+| Option_GUI_ru.loc              | ✅    |
 | Playtest_Temp_ru.loc           | ❌                  |
-| RedTower_EndSequence_ru.loc    | Машинный перевод    |
+| RedTower_EndSequence_ru.loc    | ✅    |
 | RestWorldDialogue_ru.loc       | ✅                  |
 | Talents_ru.loc                 | ✅                  |
 | TavernQuests_ru.loc            | ✅                 |
