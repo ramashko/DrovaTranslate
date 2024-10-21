@@ -20,7 +20,7 @@ item_redHerb_description { Растет на болоте. }
 
 item_meat_raw_name { Сочное мясо }
 
-item_meat_raw_description { Все еще сырое. Не пригодно для употребления в пищу человеком. }
+item_meat_raw_description { Все еще сырое. Не пригодно для употребления в пищу. }
 
 item_farmersFood_name { Фермерский обед }
 
