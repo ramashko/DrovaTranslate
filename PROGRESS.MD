@@ -66,10 +66,10 @@
 | Dialog/NPC_Bernold_ru.loc | Машинный перевод    |
 | Dialog/NPC_Bertine_ru.loc | Машинный перевод    |
 | Dialog/NPC_Birka_ru.loc | Машинный перевод    |
-| Dialog/NPC_Blaan_ru.loc | Машинный перевод    |
-| Dialog/NPC_Blanda_ru.loc | Машинный перевод    |
+| Dialog/NPC_Blaan_ru.loc | ✅    |
+| Dialog/NPC_Blanda_ru.loc | ✅    |
 | Dialog/NPC_Bombus_ru.loc | Машинный перевод    |
-| Dialog/NPC_Bonny_ru.loc | Машинный перевод    |
+| Dialog/NPC_Bonny_ru.loc | ✅    |
 | Dialog/NPC_BorisBandit_A_ru.loc | Машинный перевод    |
 | Dialog/NPC_BorisBandit_B_01_ru.loc | Машинный перевод    |
 | Dialog/NPC_BorisBandit_C_01_ru.loc | Машинный перевод    |
