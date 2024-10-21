@@ -46,7 +46,7 @@ audio { Аудио }
 
 Zoom { Масштаб }
 
-ShowPlayerHealth { Отображение полосы здоровья игрока, полосы фокусировки и других }
+ShowPlayerHealth { Отображение полосы здоровья игрока, полосы фокуса и других }
 
 ShowLootFeedback { Всякий раз, когда ваш персонаж что-то подбирает, чему-то учится, становится сильнее или продвигается по заданию, дополнительная информация будет отображаться в правой части экрана. }
 
@@ -130,7 +130,7 @@ Title_FontAndDialog { Отображение текста }
 
 Toggle_PickUpsToQuickbar_Food { Еда }
 
-Toggle_PickUpsToQuickbar_Throwables { Бросаемые предметы }
+Toggle_PickUpsToQuickbar_Throwables { Метательные предметы }
 
 Toggle_PickUpsToQuickbar_Torches { Факелы }
 
@@ -144,11 +144,11 @@ FontSize_Medium { Большой }
 
 FontSize_Big { Очень большой }
 
-DialogSpeed_Instant { Мгновенный }
+DialogSpeed_Instant { Мгновенно }
 
-DialogSpeed_Fast { Быстрый }
+DialogSpeed_Fast { Быстро }
 
-DialogSpeed_Slow { Нормальный }
+DialogSpeed_Slow { Нормально }
 
 Toggle_GroundFog { Туман на земле }
 
