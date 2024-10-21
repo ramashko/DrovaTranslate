@@ -1,4 +1,4 @@
-Woodcamp { Дровосек }
+Woodcamp { Лесоруб }
 
 Schlund { Ущелье }
 
@@ -12,13 +12,13 @@ Ruincamp { Лагерь Ремнантов }
 
 Academy { Академия }
 
-Forest { Хвойный лес }
+Forest { Хвойный Лес }
 
 Tavern { Таверна }
 
 Heide { Пустошь }
 
-FriendlyMoor { Красная пустошь }
+FriendlyMoor { Красное болото }
 
 Nemeton { Неметон }
 
@@ -26,7 +26,7 @@ EntryNemeton { Вход в Неметон }
 
 NemetonHain { Священная роща }
 
-DeathMoor { Болезненная пустошь }
+DeathMoor { Мрачное болото }
 
 RottenMoor { Гнилое болото }
 
@@ -48,9 +48,9 @@ SpiderDungeon { Холм в Пойменном лесу }
 
 Cave { Пещера }
 
-RuinExplorer { Убежище рейдеров руин }
+RuinExplorer { Убежище Рейдеров Руин }
 
-RuinSchmuggler { Тёмный квартал }
+RuinSchmuggler { Тёмный Квартал }
 
 RuinUnder { Пещера }
 

@@ -1,6 +1,6 @@
 Mog { Мог должен мне $GVAR:QuestVars_Debt_Config.MoneyFromMog$ монет. }
 
-Meluna { Поскольку Мелуна была ограблена, она тоже должна мне $GVAR:QuestVars_Debt_Config.MoneyFromMeluna$ монет. }
+Meluna { Поскольку Мелуну тоже ограбили, она должна мне $GVAR:QuestVars_Debt_Config.MoneyFromMeluna$ монет. }
 
 Lindon { Линдон был наглым.<br>Он должен мне $GVAR:QuestVars_Debt_Config.MoneyFromLindon$ монет. }
 
