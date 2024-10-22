@@ -78,11 +78,11 @@
 | Dialog/NPC_Caspara_ru.loc | ✅    |
 | Dialog/NPC_Cengiz_ru.loc | Машинный перевод    |
 | Dialog/NPC_Chunnaic_ru.loc | Машинный перевод    |
-| Dialog/NPC_Conor_ru.loc | Машинный перевод    |
-| Dialog/NPC_Cord_ru.loc | Машинный перевод    |
-| Dialog/NPC_Cuna_ru.loc | Машинный перевод    |
-| Dialog/NPC_Dalin_ru.loc | Машинный перевод    |
-| Dialog/NPC_Dark_ru.loc | Машинный перевод    |
+| Dialog/NPC_Conor_ru.loc | ✅    |
+| Dialog/NPC_Cord_ru.loc | ✅    |
+| Dialog/NPC_Cuna_ru.loc | ✅    |
+| Dialog/NPC_Dalin_ru.loc | ✅    |
+| Dialog/NPC_Dark_ru.loc | ✅    |
 | Dialog/NPC_Darwin_ru.loc | Машинный перевод    |
 | Dialog/NPC_Delani_ru.loc | Машинный перевод    |
 | Dialog/NPC_Der Ripper_ru.loc | Машинный перевод    |
