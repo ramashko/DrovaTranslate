@@ -54,7 +54,7 @@ bleedingChance { Шанс кровотечения [VALUE] }
 
 weaponDamage { Урон от оружия [VALUE] }
 
-movementSpeed ​​{ Скорость передвижения [VALUE] }
+movementSpeed { Скорость передвижения [VALUE] }
 
 poiseDamage { Урон от стойки [VALUE] }
 

@@ -85,9 +85,9 @@
 | Dialog/NPC_Dark_ru.loc | ✅    |
 | Dialog/NPC_Darwin_ru.loc | Машинный перевод    |
 | Dialog/NPC_Delani_ru.loc | Машинный перевод    |
-| Dialog/NPC_Der Ripper_ru.loc | Машинный перевод    |
+| Dialog/NPC_Der Ripper_ru.loc | ✅    |
 | Dialog/NPC_Diemo_ru.loc | Машинный перевод    |
-| Dialog/NPC_Doro_ru.loc | Машинный перевод    |
+| Dialog/NPC_Doro_ru.loc | ✅    |
 | Dialog/NPC_Drax_ru.loc | Машинный перевод    |
 | Dialog/NPC_Dunja_ru.loc | Машинный перевод    |
 | Dialog/NPC_Dylan_ru.loc | Машинный перевод    |
@@ -273,26 +273,26 @@
 | Dialogue/Critter_Cats_ru.loc           | Машинный перевод    |
 | Dialogue/Critter_Dogs_ru.loc           | Машинный перевод    |
 | Dialogue/RedTowerPedestral_ru.loc     | Машинный перевод    |
-| Dialogues/BanditExpedition_ru.loc            | Машинный перевод    |
-| Dialogues/BanditRuins_ru.loc                 | Машинный перевод    |
-| Dialogues/Brutus_ru.loc                      | Машинный перевод    |
-| Dialogues/Comments_ru.loc                    | Машинный перевод    |
-| Dialogues/CrimesAftermath_ru.loc             | Машинный перевод    |
-| Dialogues/CrimesOpenReactions_ru.loc         | Машинный перевод    |
-| Dialogues/Dylara_ru.loc                      | Машинный перевод    |
-| Dialogues/Global_Busy_ru.loc                 | Машинный перевод    |
-| Dialogues/Global_GreetAndGoodbye_ru.loc      | Машинный перевод    |
-| Dialogues/Global_Insults_ru.loc              | Машинный перевод    |
-| Dialogues/Global_Perceptible_ru.loc          | Машинный перевод    |
-| Dialogues/Global_PwyllConvo_ru.loc           | Машинный перевод    |
-| Dialogues/Global_ru.loc                       | Машинный перевод    |
-| Dialogues/Mirron_ru.loc                       | Машинный перевод    |
-| Dialogues/PlayerComments_ru.loc               | Машинный перевод    |
-| Dialogues/PlayerThoughts_ru.loc               | Машинный перевод    |
-| Dialogues/Sleep_ru.loc                        | Машинный перевод    |
-| Dialogues/Tests_ru.loc                        | Машинный перевод    |
-| Dialogues/WorldDialogueGreatTusk_ru.loc      | Машинный перевод    |
-| Dialogues/WorldDialogue_ru.loc                | Машинный перевод    |
+| Dialogues/BanditExpedition_ru.loc            | ✅    |
+| Dialogues/BanditRuins_ru.loc                 | ✅    |
+| Dialogues/Brutus_ru.loc                      | ✅    |
+| Dialogues/Comments_ru.loc                    | ✅    |
+| Dialogues/CrimesAftermath_ru.loc             | ✅    |
+| Dialogues/CrimesOpenReactions_ru.loc         | ✅    |
+| Dialogues/Dylara_ru.loc                      | ✅    |
+| Dialogues/Global_Busy_ru.loc                 | ✅    |
+| Dialogues/Global_GreetAndGoodbye_ru.loc      | ✅    |
+| Dialogues/Global_Insults_ru.loc              | ✅    |
+| Dialogues/Global_Perceptible_ru.loc          | ✅    |
+| Dialogues/Global_PwyllConvo_ru.loc           | ✅    |
+| Dialogues/Global_ru.loc                       | ✅    |
+| Dialogues/Mirron_ru.loc                       | ✅    |
+| Dialogues/PlayerComments_ru.loc               | ✅    |
+| Dialogues/PlayerThoughts_ru.loc               | ✅    |
+| Dialogues/Sleep_ru.loc                        | ✅    |
+| Dialogues/Tests_ru.loc                        | ✅    |
+| Dialogues/WorldDialogueGreatTusk_ru.loc      | ✅    |
+| Dialogues/WorldDialogue_ru.loc                | ✅    |
 | GUI/AbilityMenu_ru.loc          | ✅                  |
 | GUI/ChapterProgress_ru.loc      | ✅                  |
 | GUI/CharacterCreation_ru.loc     | ✅                  |
