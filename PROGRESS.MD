@@ -106,60 +106,60 @@
 | Dialog/NPC_Eugen_ru.loc | Машинный перевод    |
 | Dialog/NPC_Evi_ru.loc | Машинный перевод    |
 | Dialog/NPC_Faol_ru.loc | Машинный перевод    |
-| Dialog/NPC_Farina_ru.loc | Машинный перевод    |
+| Dialog/NPC_Farina_ru.loc | ✅    |
 | Dialog/NPC_Farlan_ru.loc | Машинный перевод    |
-| Dialog/NPC_Farona_ru.loc | Машинный перевод    |
-| Dialog/NPC_Fawini_Bodyguard_ru.loc | Машинный перевод    |
-| Dialog/NPC_Fawini_ru.loc | Машинный перевод    |
-| Dialog/NPC_Femke_ru.loc | Машинный перевод    |
-| Dialog/NPC_Fester_ru.loc | Машинный перевод    |
-| Dialog/NPC_Fia_ru.loc | Машинный перевод    |
-| Dialog/NPC_Finlay_ru.loc | Машинный перевод    |
-| Dialog/NPC_Florin_ru.loc | Машинный перевод    |
-| Dialog/NPC_Flunka_ru.loc | Машинный перевод    |
+| Dialog/NPC_Farona_ru.loc | ✅    |
+| Dialog/NPC_Fawini_Bodyguard_ru.loc | ✅    |
+| Dialog/NPC_Fawini_ru.loc | ✅    |
+| Dialog/NPC_Femke_ru.loc | ✅    |
+| Dialog/NPC_Fester_ru.loc | ✅    |
+| Dialog/NPC_Fia_ru.loc | ✅    |
+| Dialog/NPC_Finlay_ru.loc | ✅    |
+| Dialog/NPC_Florin_ru.loc | ✅    |
+| Dialog/NPC_Flunka_ru.loc | ✅    |
 | Dialog/NPC_Friedel_ru.loc | Машинный перевод    |
-| Dialog/NPC_Frithjof_ru.loc | Машинный перевод    |
+| Dialog/NPC_Frithjof_ru.loc | ✅    |
 | Dialog/NPC_Fulk_ru.loc | Машинный перевод    |
-| Dialog/NPC_Fygen_ru.loc | Машинный перевод    |
+| Dialog/NPC_Fygen_ru.loc | ✅    |
 | Dialog/NPC_Gawan_ru.loc | Машинный перевод    |
-| Dialog/NPC_Geli_ru.loc | Машинный перевод    |
+| Dialog/NPC_Geli_ru.loc | ✅    |
 | Dialog/NPC_Georg_ru.loc | Машинный перевод    |
 | Dialog/NPC_Gera_ru.loc | Машинный перевод    |
 | Dialog/NPC_Gerdwin_ru.loc | Машинный перевод    |
-| Dialog/NPC_Gerion_ru.loc | Машинный перевод    |
+| Dialog/NPC_Gerion_ru.loc | ✅    |
 | Dialog/NPC_Gero_ru.loc | Машинный перевод    |
-| Dialog/NPC_Gilwar_ru.loc | Машинный перевод    |
-| Dialog/NPC_Gradan_ru.loc | Машинный перевод    |
-| Dialog/NPC_Gra_ru.loc | Машинный перевод    |
-| Dialog/NPC_Grit_ru.loc | Машинный перевод    |
+| Dialog/NPC_Gilwar_ru.loc | ✅    |
+| Dialog/NPC_Gradan_ru.loc | ✅    |
+| Dialog/NPC_Gra_ru.loc | ✅    |
+| Dialog/NPC_Grit_ru.loc | ✅    |
 | Dialog/NPC_Hadewin_ru.loc | Машинный перевод    |
-| Dialog/NPC_Hailey_ru.loc | Машинный перевод    |
-| Dialog/NPC_Hajo_ru.loc | Машинный перевод    |
-| Dialog/NPC_Harald_ru.loc | Машинный перевод    |
+| Dialog/NPC_Hailey_ru.loc | ✅    |
+| Dialog/NPC_Hajo_ru.loc | ✅    |
+| Dialog/NPC_Harald_ru.loc | ✅    |
 | Dialog/NPC_Harvey_ru.loc | Машинный перевод    |
 | Dialog/NPC_Hasso_ru.loc | Машинный перевод    |
 | Dialog/NPC_Helma_ru.loc | Машинный перевод    |
 | Dialog/NPC_Henik_ru.loc | Машинный перевод    |
 | Dialog/NPC_Humbert_ru.loc | Машинный перевод    |
-| Dialog/NPC_Ida_ru.loc | Машинный перевод    |
-| Dialog/NPC_Idefix_ru.loc | Машинный перевод    |
-| Dialog/NPC_IdleGuy_ru.loc | Машинный перевод    |
-| Dialog/NPC_Inja_ru.loc | Машинный перевод    |
-| Dialog/NPC_Irmina_ru.loc | Машинный перевод    |
-| Dialog/NPC_Ismar_ru.loc | Машинный перевод    |
-| Dialog/NPC_Ivera_ru.loc | Машинный перевод    |
-| Dialog/NPC_Jalina_ru.loc | Машинный перевод    |
-| Dialog/NPC_Jarmon_ru.loc | Машинный перевод    |
-| Dialog/NPC_Jean_ru.loc | Машинный перевод    |
+| Dialog/NPC_Ida_ru.loc | ✅    |
+| Dialog/NPC_Idefix_ru.loc | ✅    |
+| Dialog/NPC_IdleGuy_ru.loc | ✅    |
+| Dialog/NPC_Inja_ru.loc | ✅    |
+| Dialog/NPC_Irmina_ru.loc | ✅    |
+| Dialog/NPC_Ismar_ru.loc | ✅    |
+| Dialog/NPC_Ivera_ru.loc | ✅    |
+| Dialog/NPC_Jalina_ru.loc | ✅    |
+| Dialog/NPC_Jarmon_ru.loc | ✅    |
+| Dialog/NPC_Jean_ru.loc | ✅    |
 | Dialog/NPC_Jendra_ru.loc | Машинный перевод    |
 | Dialog/NPC_Jendrik_ru.loc | Машинный перевод    |
-| Dialog/NPC_Jennifer_ru.loc | Машинный перевод    |
+| Dialog/NPC_Jennifer_ru.loc | ✅    |
 | Dialog/NPC_Jero_ru.loc | Машинный перевод    |
-| Dialog/NPC_Jerzy_ru.loc | Машинный перевод    |
-| Dialog/NPC_Jesko_ru.loc | Машинный перевод    |
-| Dialog/NPC_Jimmy_ru.loc | Машинный перевод    |
+| Dialog/NPC_Jerzy_ru.loc | ✅    |
+| Dialog/NPC_Jesko_ru.loc | ✅    |
+| Dialog/NPC_Jimmy_ru.loc | ✅    |
 | Dialog/NPC_Jola_ru.loc | Машинный перевод    |
-| Dialog/NPC_Joris_ru.loc | Машинный перевод    |
+| Dialog/NPC_Joris_ru.loc | ✅    |
 | Dialog/NPC_Josi_ru.loc | Машинный перевод    |
 | Dialog/NPC_Junali_ru.loc | Машинный перевод    |
 | Dialog/NPC_Jurek_ru.loc | Машинный перевод    |
