@@ -88,21 +88,21 @@
 | Dialog/NPC_Der Ripper_ru.loc | ✅    |
 | Dialog/NPC_Diemo_ru.loc | Машинный перевод    |
 | Dialog/NPC_Doro_ru.loc | ✅    |
-| Dialog/NPC_Drax_ru.loc | Машинный перевод    |
-| Dialog/NPC_Dunja_ru.loc | Машинный перевод    |
-| Dialog/NPC_Dylan_ru.loc | Машинный перевод    |
-| Dialog/NPC_Ebru_ru.loc | Машинный перевод    |
-| Dialog/NPC_Ede_ru.loc | Машинный перевод    |
-| Dialog/NPC_Elgar_ru.loc | Машинный перевод    |
-| Dialog/NPC_Ella_ru.loc | Машинный перевод    |
-| Dialog/NPC_Elnea_ru.loc | Машинный перевод    |
-| Dialog/NPC_Emko_ru.loc | Машинный перевод    |
-| Dialog/NPC_Emre_ru.loc | Машинный перевод    |
-| Dialog/NPC_Enya_ru.loc | Машинный перевод    |
-| Dialog/NPC_Eoin_ru.loc | Машинный перевод    |
-| Dialog/NPC_Esdert_ru.loc | Машинный перевод    |
+| Dialog/NPC_Drax_ru.loc | ✅    |
+| Dialog/NPC_Dunja_ru.loc | ✅    |
+| Dialog/NPC_Dylan_ru.loc | ✅    |
+| Dialog/NPC_Ebru_ru.loc | ✅    |
+| Dialog/NPC_Ede_ru.loc | ✅    |
+| Dialog/NPC_Elgar_ru.loc | ✅    |
+| Dialog/NPC_Ella_ru.loc | ✅    |
+| Dialog/NPC_Elnea_ru.loc | ✅    |
+| Dialog/NPC_Emko_ru.loc | ✅    |
+| Dialog/NPC_Emre_ru.loc | ✅    |
+| Dialog/NPC_Enya_ru.loc | ✅    |
+| Dialog/NPC_Eoin_ru.loc | ✅    |
+| Dialog/NPC_Esdert_ru.loc | ✅    |
 | Dialog/NPC_Ester_ru.loc | Машинный перевод    |
-| Dialog/NPC_Etzel_ru.loc | Машинный перевод    |
+| Dialog/NPC_Etzel_ru.loc | ✅    |
 | Dialog/NPC_Eugen_ru.loc | Машинный перевод    |
 | Dialog/NPC_Evi_ru.loc | Машинный перевод    |
 | Dialog/NPC_Faol_ru.loc | Машинный перевод    |
