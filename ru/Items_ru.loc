@@ -996,13 +996,13 @@ armor_chest_shirt_ragged_name_name { Лохмотья }
 
 armor_chest_shirt_ragged_name_description { Лучше, чем ничего, я думаю... }
 
-armor_chest_ruinenlager_fighter_druid_name_name { Друидная Боевая Броня Руин }
+armor_chest_ruinenlager_fighter_druid_name_name { Друидная Боевая Броня Ремнантов }
 
 armor_chest_ruinenlager_fighter_druid_name_description { Только сильнейшие в лагере Ремнантов могут носить эту броню. }
 
-armor_chest_ruinenlager_fighter_fight_name_name { Легкая Боевая Броня Руин }
+armor_chest_ruinenlager_fighter_fight_name_name { Легкая Боевая Броня Ремнантов }
 
-armor_chest_ruinenlager_fighter_heavy_name_name { Тяжелая Боевая Броня Руин }
+armor_chest_ruinenlager_fighter_heavy_name_name { Тяжелая Боевая Броня Ремнантов }
 
 armor_chest_ruinenlager_heavy_name_name { Тяжелая Броня Ремнантов }
 
@@ -1056,7 +1056,7 @@ item_riptoothchain_description { Эффекты кровотечения нан�
 
 item_vipertooth_name { Зуб Гадюки }
 
-item_vipertooth_description { Эффект яда дополнительно замедляет на [SlowPercent]. }
+item_vipertooth_description { Замедление от яда увеличено на [SlowPercent]%. }
 
 item_mastersmemory_name { Пояс Мастера }
 
@@ -2032,7 +2032,7 @@ item_KendrickSagar_description { }
 
 recipe_throwingknife_name { Рецепт: Метательный Нож }
 
-item_letterAtlanter_Extractor2_description { item_letterAtlanter_Extractor2_description }
+item_letterAtlanter_Extractor2_description {  }
 
 item_letterAtlanter_Armor_name { Доспехи Прошедших }
 
