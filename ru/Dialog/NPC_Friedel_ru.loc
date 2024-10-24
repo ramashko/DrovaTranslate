@@ -12,7 +12,7 @@ Plh_27 { Всего несколько. }
 
 Plh_28 { На самом деле, мне сейчас не нужны монеты. }
 
-Plh_58 { Тогда передай мне монеты get$GVAR:QuestVars_Debt_Config.HighAmountWithInterest$. }
+Plh_58 { Тогда передай мне $GVAR:QuestVars_Debt_Config.HighAmountWithInterest$ монет. }
 
 Plh_98 { Так много?! }
 
@@ -26,7 +26,7 @@ Plh_63 { Отлично. Приятно иметь с вами дело. *ухм
 
 Plh_64 { Лучше бы вам. И сделайте это быстро. Вы не хотите иметь никаких проблем со мной, поверьте мне. }
 
-Plh_59 { Тогда передайте мне get$GVAR:QuestVars_Debt_Config.LowAmountWithInterest$ монет. }
+Plh_59 { Тогда передайте мне $GVAR:QuestVars_Debt_Config.LowAmountWithInterest$ монет. }
 
 Plh_100 { Это почти вдвое больше! Ростовщичество! }
 
