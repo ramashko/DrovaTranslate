@@ -265,10 +265,10 @@
 | Dialog/RuinenlagerHauerFinishedWork_ru.loc | Машинный перевод    |
 | Dialog/RuinenlagerWorldDialog_ru.loc | Машинный перевод    |
 | Dialog/Ruinenlager_Guards_ru.loc | Машинный перевод    |
-| Dialog/SheepPost_Liesl_ru.loc | Машинный перевод    |
-| Dialog/SheepTrace_ru.loc | Машинный перевод    |
-| Dialog/SheepWool_ru.loc | Машинный перевод    |
-| Dialog/Table_Brutus_ru.loc | Машинный перевод    |
+| Dialog/SheepPost_Liesl_ru.loc | ✅    |
+| Dialog/SheepTrace_ru.loc | ✅    |
+| Dialog/SheepWool_ru.loc | ✅    |
+| Dialog/Table_Brutus_ru.loc | ✅    |
 | Dialog/Teaching_ru.loc | Машинный перевод    |
 | Dialogue/Critter_Cats_ru.loc           | Машинный перевод    |
 | Dialogue/Critter_Dogs_ru.loc           | Машинный перевод    |
