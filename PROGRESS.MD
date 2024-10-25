@@ -160,8 +160,8 @@
 | Dialog/NPC_Jimmy_ru.loc | ✅    |
 | Dialog/NPC_Jola_ru.loc | Машинный перевод    |
 | Dialog/NPC_Joris_ru.loc | ✅    |
-| Dialog/NPC_Josi_ru.loc | Машинный перевод    |
-| Dialog/NPC_Junali_ru.loc | Машинный перевод    |
+| Dialog/NPC_Josi_ru.loc | ✅    |
+| Dialog/NPC_Junali_ru.loc | ✅    |
 | Dialog/NPC_Jurek_ru.loc | Машинный перевод    |
 | Dialog/NPC_Juri_ru.loc | Машинный перевод    |
 | Dialog/NPC_Kara_ru.loc | Машинный перевод    |
