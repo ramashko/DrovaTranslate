@@ -1564,9 +1564,9 @@ key_sleepingTavernKey_description { Я снял комнату Олафа нав
 
 item_strangeFossil_name { Странная Окаменелость }
 
-letter_leru_hint01_name { Первый рисунок сна Леру }
+letter_leru_hint01_name { Первый рисунок сна Лортиз }
 
-letter_leru_hint02_name { Второй рисунок сна Леру }
+letter_leru_hint02_name { Второй рисунок сна Лортиз }
 
 armor_chest_nemeton_social_name_name { Одеяние Неметона }
 
@@ -1698,7 +1698,7 @@ misc_map_leuchtwald_name { Карта Первобытного Леса }
 
 misc_worldmap_detailed_name { Карта Дровы }
 
-misc_worldmap_detailed_description { Нарисовано «Леру». }
+misc_worldmap_detailed_description { Нарисовано «Лортиз». }
 
 misc_worldmap_shrines_name { Карта Святилищ }
 
@@ -1842,7 +1842,7 @@ item_fish_dead_description { Всё ещё сырое. Не подходит д�
 
 recipe_foodpile_strong_name { Рецепт: Прыгающий Окунь }
 
-letter_leru_hint03_name { Третий рисунок сна Леру }
+letter_leru_hint03_name { Третий рисунок сна Лортиз }
 
 key_chest_BanditCamp_name { Тяжёлый Ключ }
 
