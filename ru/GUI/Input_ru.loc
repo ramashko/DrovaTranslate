@@ -154,7 +154,7 @@ action_Squat { Присесть }
 
 action_DialogSkip { Пропустить диалог }
 
-action_CraftingMenu { Крафт }
+action_CraftingMenu { Ремесло }
 
 action_ToggleGarbageVisibility { Отображать мусор да/нет }
 

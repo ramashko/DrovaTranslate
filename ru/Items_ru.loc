@@ -1886,7 +1886,7 @@ item_KendrickHideout_name { Тайное Письмо }
 
 item_KendrickGoodsBook_name { Грузовая Декларация }
 
-category_crafting { Материалы для крафта }
+category_crafting { Материалы для ремесла }
 
 category_saleitems { Разное, Товары на продажу, Мусор }
 

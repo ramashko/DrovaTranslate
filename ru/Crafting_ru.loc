@@ -8,7 +8,7 @@ Personal { Личный }
 
 Recipes { Рецепты }
 
-Title_Panel { Крафт }
+Title_Panel { Ремесло }
 
 Toggle_CraftableOnly { Можно изготовить }
 
@@ -24,7 +24,7 @@ Foldout_Heal { Лечение }
 
 Foldout_Unsorted { Несортированный }
 
-Title_CraftingStation { Крафт }
+Title_CraftingStation { Верстак }
 
 Prefix_RequiredWorkbench { Требуется: }
 
