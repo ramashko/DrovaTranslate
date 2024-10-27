@@ -70,7 +70,7 @@ key_chest_delani_description { Ключ от сундука Делани. }
 
 note_evidence_boris_name { Спланированная засада }
 
-note_evidence_boris_description { Я снял это с бандитов возле лагеря Ремнантов. }
+note_evidence_boris_description { Я снял это с бандитов возле лагеря Отступников. }
 
 item_stolenPackage_name { Украденный пакет }
 
@@ -106,7 +106,7 @@ note_debtorlist_description { Многие люди в долгах. Я тепе
 
 key_ratcellar_name { Ключ от Погреба }
 
-key_ratcellar_description { Ключ от погреба таверны в лагере Ремнантов. }
+key_ratcellar_description { Ключ от погреба таверны в лагере Отступников. }
 
 weapon_axe_bady_dull_name { Тупой топор Бади. }
 
@@ -996,19 +996,19 @@ armor_chest_shirt_ragged_name_name { Лохмотья }
 
 armor_chest_shirt_ragged_name_description { Лучше, чем ничего, я думаю... }
 
-armor_chest_ruinenlager_fighter_druid_name_name { Друидная Боевая Броня Ремнантов }
+armor_chest_ruinenlager_fighter_druid_name_name { Друидная Боевая Броня Отступников }
 
-armor_chest_ruinenlager_fighter_druid_name_description { Только сильнейшие в лагере Ремнантов могут носить эту броню. }
+armor_chest_ruinenlager_fighter_druid_name_description { Только сильнейшие в лагере Отступников могут носить эту броню. }
 
-armor_chest_ruinenlager_fighter_fight_name_name { Легкая Боевая Броня Ремнантов }
+armor_chest_ruinenlager_fighter_fight_name_name { Легкая Боевая Броня Отступников }
 
-armor_chest_ruinenlager_fighter_heavy_name_name { Тяжелая Боевая Броня Ремнантов }
+armor_chest_ruinenlager_fighter_heavy_name_name { Тяжелая Боевая Броня Отступников }
 
-armor_chest_ruinenlager_heavy_name_name { Тяжелая Броня Ремнантов }
+armor_chest_ruinenlager_heavy_name_name { Тяжелая Броня Отступников }
 
-armor_chest_ruinenlager_heavy_name_description { Эта броня предназначена только для Ремнантов. Она демонстрирует мою преданность Джеро. }
+armor_chest_ruinenlager_heavy_name_description { Эта броня предназначена только для Отступников. Она демонстрирует мою преданность Джеро. }
 
-armor_chest_ruinenlager_name_name { Лёгкая броня Ремнантов }
+armor_chest_ruinenlager_name_name { Лёгкая броня Отступников }
 
 armor_chest_tunic_name_name { Рабочая Одежда }
 
@@ -1174,7 +1174,7 @@ armor_chest_nemeton_craftsman_name_name { Наряд Ремесленника Н
 
 armor_chest_nemeton_chief_name_name { Доспехи Лидера Неметона}
 
-armor_chest_ruinenlager_chief_name_name { Доспехи Лидера Ремнантов}
+armor_chest_ruinenlager_chief_name_name { Доспехи Лидера Отступников}
 
 item_mumbertDiarrhoea_name { Колючее Пиво }
 
@@ -1608,9 +1608,9 @@ helmet_nemeton_guard1_name_name { Легкий Шлем Неметона }
 
 helmet_nemeton_guard2_name_name { Тяжёлый Шлем Неметона }
 
-helmet_ruinenlager_guard1_name_name { Простой Шлем Ремнантов }
+helmet_ruinenlager_guard1_name_name { Простой Шлем Отступников }
 
-helmet_ruinenlager_guard2_name_name { Тяжёлый Шлем Ремнантов }
+helmet_ruinenlager_guard2_name_name { Тяжёлый Шлем Отступников }
 
 helmet_cauldron_name_name { Котёл }
 
@@ -1692,7 +1692,7 @@ note_naughty_female_description { Рисунок красивой голой ж�
 
 misc_map_nemeton_name { Карта Неметона }
 
-misc_map_ruincamp_name { Карта лагеря Ремнантов }
+misc_map_ruincamp_name { Карта лагеря Отступников }
 
 misc_map_leuchtwald_name { Карта Первобытного Леса }
 
@@ -1924,7 +1924,7 @@ recipe_flow_poisonArrow_name { Способность: Отравленная С
 
 key_tavernKey_Cellar_name { Ключ от погреба}
 
-key_tavernKey_Cellar_description { Ключ от погреба таверны в лагере Ремнантов. }
+key_tavernKey_Cellar_description { Ключ от погреба таверны в лагере Отступников. }
 
 helmet_none_name { Id: helmet_none }
 
