@@ -8,7 +8,7 @@ Achievement_CengizWoodcampQuest_desc { Убедитесь, что все люд�
 
 Achievement_LeftDeepMine_name { Вниз по течению }
 
-Achievement_LeftDeepMine_desc { Сбегите из Глубокой шахты в лагере Ремнантов. }
+Achievement_LeftDeepMine_desc { Сбегите из Глубокой шахты в лагере Отступников. }
 
 Achievement_HelpedGeorg_name { О схватках и хитростях }
 
@@ -18,9 +18,9 @@ Achievement_JoinNemeton_name { Часть Семьи }
 
 Achievement_JoinNemeton_desc { Вступить в Неметон. }
 
-Achievement_JoinRuinenlager_name { Присоединится к Ремнантам }
+Achievement_JoinRuinenlager_name { Присоединится к Отступникам }
 
-Achievement_JoinRuinenlager_desc { Присоединится к Ремнантам. }
+Achievement_JoinRuinenlager_desc { Присоединится к Отступникам. }
 
 Achievement_GotFamiliar_name { Моя искрящаяся маленькая Искорка }
 
@@ -76,7 +76,7 @@ Achievement_Schnitzeljagd_desc { Создайте свой собственны�
 
 Achievement_ArenaMaster_name { Гладиатор }
 
-Achievement_ArenaMaster_desc { Достигните вершины во время боев на арене в лагере Ремнантов. }
+Achievement_ArenaMaster_desc { Достигните вершины во время боев на арене в лагере Отступников. }
 
 Achievement_Blackboard_name { Во благо общества }
 
@@ -116,11 +116,11 @@ Achievement_GaveCayFamiliar_desc { Отдайте часть себя, чтоб�
 
 Achievement_StoppedMurtaghAndMursel_name { Я - закон }
 
-Achievement_StoppedMurtaghAndMursel_desc { Восстанови справедливость в Яме в лагере Ремнантов. }
+Achievement_StoppedMurtaghAndMursel_desc { Восстанови справедливость в Яме в лагере Отступников. }
 
 Achievement_LeftMine100Silver_name { Это Мое Серебро! }
 
-Achievement_LeftMine100Silver_desc { Покиньте Яму в Лагере Ремнантов со 100 серебрами в кармане. }
+Achievement_LeftMine100Silver_desc { Покиньте Яму в Лагере Отступников со 100 серебрами в кармане. }
 
 Achievement_UndertookJourneyToRoots_name { Един с Древним Лесом }
 
