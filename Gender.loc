@@ -498,17 +498,17 @@ bandit_generic { Бандит } -
 
 Leru { Лортиз  } - 
 
-Cat { Кит } - 
+Cat { Кот } - 
 
-Dog { Себек } - 
+Dog { Собака } - 
 
 Sheep { Овечка } - 
 
 PigletAtRoot { Поросёнок } - 
 
-Critter_Cat_01 { Кит } - 
+Critter_Cat_01 { Кот } - 
 
-Critter_Dog_01 { Себек } - 
+Critter_Dog_01 { Собака } - 
 
 Farona { Фарона } - 
 
