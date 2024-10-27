@@ -12,7 +12,7 @@ magicalblock { Магический блок }
 
 physicalresistance { Броня }
 
-magicalresistance { Магическое сопротивление }
+magicalresistance { Магич. сопрот. }
 
 flowcosts { Стоимость фокуса }
 
