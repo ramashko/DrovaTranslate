@@ -270,7 +270,7 @@
 | Dialog/SheepWool_ru.loc | ✅    |
 | Dialog/Table_Brutus_ru.loc | ✅    |
 | Dialog/Teaching_ru.loc | ✅    |
-| Dialogue/Critter_Cats_ru.loc           | Машинный перевод    |
+| Dialogue/Critter_Cats_ru.loc           | ✅    |
 | Dialogue/Critter_Dogs_ru.loc           | Машинный перевод    |
 | Dialogue/RedTowerPedestral_ru.loc     | Машинный перевод    |
 | Dialogues/BanditExpedition_ru.loc            | ✅    |
