@@ -162,18 +162,18 @@
 | Dialog/NPC_Joris_ru.loc | ✅    |
 | Dialog/NPC_Josi_ru.loc | ✅    |
 | Dialog/NPC_Junali_ru.loc | ✅    |
-| Dialog/NPC_Jurek_ru.loc | Машинный перевод    |
-| Dialog/NPC_Juri_ru.loc | Машинный перевод    |
-| Dialog/NPC_Kara_ru.loc | Машинный перевод    |
-| Dialog/NPC_Karim_ru.loc | Машинный перевод    |
-| Dialog/NPC_Karmi_ru.loc | Машинный перевод    |
+| Dialog/NPC_Jurek_ru.loc | ✅    |
+| Dialog/NPC_Juri_ru.loc | ✅    |
+| Dialog/NPC_Kara_ru.loc | ✅    |
+| Dialog/NPC_Karim_ru.loc | ✅    |
+| Dialog/NPC_Karmi_ru.loc | ✅    |
 | Dialog/NPC_Karotte_ru.loc | Машинный перевод    |
-| Dialog/NPC_Kati_ru.loc | Машинный перевод    |
-| Dialog/NPC_Katsa_ru.loc | Машинный перевод    |
-| Dialog/NPC_Kellan_ru.loc | Машинный перевод    |
-| Dialog/NPC_Kendrick_ru.loc | Машинный перевод    |
-| Dialog/NPC_Kerr_ru.loc | Машинный перевод    |
-| Dialog/NPC_Kessia_ru.loc | Машинный перевод    |
+| Dialog/NPC_Kati_ru.loc | ✅    |
+| Dialog/NPC_Katsa_ru.loc | ✅    |
+| Dialog/NPC_Kellan_ru.loc | ✅    |
+| Dialog/NPC_Kendrick_ru.loc | ✅    |
+| Dialog/NPC_Kerr_ru.loc | ✅    |
+| Dialog/NPC_Kessia_ru.loc | ✅    |
 | Dialog/NPC_Kilian_ru.loc | Машинный перевод    |
 | Dialog/NPC_Kolina_ru.loc | Машинный перевод    |
 | Dialog/NPC_Kora_ru.loc | Машинный перевод    |
