@@ -264,15 +264,15 @@
 | Dialog/RuinenlagerGreetPlayerNemeton_ru.loc | Машинный перевод    |
 | Dialog/RuinenlagerHauerFinishedWork_ru.loc | Машинный перевод    |
 | Dialog/RuinenlagerWorldDialog_ru.loc | Машинный перевод    |
-| Dialog/Ruinenlager_Guards_ru.loc | Машинный перевод    |
+| Dialog/Ruinenlager_Guards_ru.loc | ✅    |
 | Dialog/SheepPost_Liesl_ru.loc | ✅    |
 | Dialog/SheepTrace_ru.loc | ✅    |
 | Dialog/SheepWool_ru.loc | ✅    |
 | Dialog/Table_Brutus_ru.loc | ✅    |
 | Dialog/Teaching_ru.loc | ✅    |
 | Dialogue/Critter_Cats_ru.loc           | ✅    |
-| Dialogue/Critter_Dogs_ru.loc           | Машинный перевод    |
-| Dialogue/RedTowerPedestral_ru.loc     | Машинный перевод    |
+| Dialogue/Critter_Dogs_ru.loc           | ✅    |
+| Dialogue/RedTowerPedestral_ru.loc     | ✅    |
 | Dialogues/BanditExpedition_ru.loc            | ✅    |
 | Dialogues/BanditRuins_ru.loc                 | ✅    |
 | Dialogues/Brutus_ru.loc                      | ✅    |
