@@ -480,7 +480,7 @@ item_mudLotus_description { Растет на грязных болотах. }
 
 item_shinyStone_name { Таинственный Кристалл }
 
-item_shinyStone_description { Получено от друида. Мне нужно отнести его Неметону. }
+item_shinyStone_description { Получено от друида. Мне нужно отнести его в Неметон. }
 
 cons_flow_energyProjectile_name { Магическая Ракета }
 
