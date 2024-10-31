@@ -226,11 +226,11 @@
 | Dialog/NPC_Oskar_ru.loc | Машинный перевод    |
 | Dialog/NPC_Owain_ru.loc | Машинный перевод    |
 | Dialog/NPC_Palina_ru.loc | Машинный перевод    |
-| Dialog/NPC_Piglet_Cay_ru.loc | Машинный перевод    |
-| Dialog/NPC_Piglet_Chris_ru.loc | Машинный перевод    |
-| Dialog/NPC_Piglet_Han_ru.loc | Машинный перевод    |
-| Dialog/NPC_Piglet_Julian_ru.loc | Машинный перевод    |
-| Dialog/NPC_Piglet_Kai_ru.loc | Машинный перевод    |
+| Dialog/NPC_Piglet_Cay_ru.loc | ✅    |
+| Dialog/NPC_Piglet_Chris_ru.loc | ✅    |
+| Dialog/NPC_Piglet_Han_ru.loc | ✅    |
+| Dialog/NPC_Piglet_Julian_ru.loc | ✅    |
+| Dialog/NPC_Piglet_Kai_ru.loc | ✅    |
 | Dialog/NPC_Pwyll_ru.loc | Машинный перевод    |
 | Dialog/NPC_Raya_ru.loc | Машинный перевод    |
 | Dialog/NPC_Reija_ru.loc | Машинный перевод    |
