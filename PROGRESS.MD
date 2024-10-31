@@ -11,7 +11,7 @@
 | Dialog/Corpses/Generic_ru.loc            | ✅    |
 | Dialog/Footprint/HumanFight_ru.loc       | ✅    |
 | Dialog/Objects/Armorstand_Bady_ru.loc    | ✅    |
-| Dialog/Perceptible/NPC_Farlan_Corpse_ru.loc        | Машинный перевод    |
+| Dialog/Perceptible/NPC_Farlan_Corpse_ru.loc        | ✅    |
 | Dialog/Perceptible/Perceptible_Generic_ru.loc       | ✅    |
 | Dialog/Perceptible/Signpost_Generic_ru.loc           | ✅    |
 | Dialog/Perceptible/Vorago_Lightning_ru.loc           | ✅    |
