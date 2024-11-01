@@ -175,9 +175,9 @@
 | Dialog/NPC_Kerr_ru.loc | ✅    |
 | Dialog/NPC_Kessia_ru.loc | ✅    |
 | Dialog/NPC_Kilian_ru.loc | Машинный перевод    |
-| Dialog/NPC_Kolina_ru.loc | Машинный перевод    |
+| Dialog/NPC_Kolina_ru.loc | ✅    |
 | Dialog/NPC_Kora_ru.loc | Машинный перевод    |
-| Dialog/NPC_Lanzo_ru.loc | Машинный перевод    |
+| Dialog/NPC_Lanzo_ru.loc | ✅    |
 | Dialog/NPC_Larea_ru.loc | Машинный перевод    |
 | Dialog/NPC_Laric_ru.loc | Машинный перевод    |
 | Dialog/NPC_Laudine_ru.loc | Машинный перевод    |
