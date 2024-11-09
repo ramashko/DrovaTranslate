@@ -1376,7 +1376,7 @@ recipe_farmersmeal_name { Рецепт: Обед Фермера }
 
 recipe_fishpan_name { Рецепт: Жареная Рыбка }
 
-recipe_flowpotion_0_name { Рецепт: Туннельное Жаркое }
+recipe_flowpotion_0_name { Рецепт: Зелье Потока }
 
 recipe_flowpotion_1_name { Рецепт: Мощное Зелье Потока }
 
