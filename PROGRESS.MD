@@ -55,7 +55,7 @@
 | Dialog/NPC_Asmus_ru.loc | ✅    |
 | Dialog/NPC_Augis_ru.loc | ✅    |
 | Dialog/NPC_Babsi_ru.loc | ✅    |
-| Dialog/NPC_Bady_ru.loc | Машинный перевод    |
+| Dialog/NPC_Bady_ru.loc | На переводе    |
 | Dialog/NPC_Baldo_ru.loc | ✅    |
 | Dialog/NPC_Baltus_ru.loc | Машинный перевод    |
 | Dialog/NPC_BanditBridge1_ru.loc | ✅    |
