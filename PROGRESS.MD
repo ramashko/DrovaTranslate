@@ -55,7 +55,7 @@
 | Dialog/NPC_Asmus_ru.loc | ✅    |
 | Dialog/NPC_Augis_ru.loc | ✅    |
 | Dialog/NPC_Babsi_ru.loc | ✅    |
-| Dialog/NPC_Bady_ru.loc | На переводе    |
+| Dialog/NPC_Bady_ru.loc | ✅    |
 | Dialog/NPC_Baldo_ru.loc | ✅    |
 | Dialog/NPC_Baltus_ru.loc | На переводе    |
 | Dialog/NPC_BanditBridge1_ru.loc | ✅    |
@@ -86,7 +86,7 @@
 | Dialog/NPC_Darwin_ru.loc | Машинный перевод    |
 | Dialog/NPC_Delani_ru.loc | Машинный перевод    |
 | Dialog/NPC_Der Ripper_ru.loc | ✅    |
-| Dialog/NPC_Diemo_ru.loc | На переводе    |
+| Dialog/NPC_Diemo_ru.loc | ✅    |
 | Dialog/NPC_Doro_ru.loc | ✅    |
 | Dialog/NPC_Drax_ru.loc | ✅    |
 | Dialog/NPC_Dunja_ru.loc | ✅    |
