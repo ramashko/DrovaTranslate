@@ -140,7 +140,7 @@ Talent_Daggers_CritAfterDodge_desc { Ваша первая атака кинжа
 
 Talent_Daggers_DecreaseFlow { Сфокусирован! }
 
-Talent_Daggers_DecreaseFlow_desc { После использования способности вы получите [FocusValueAbsolut] фокуса. }
+Talent_Daggers_DecreaseFlow_desc { После использования способности вы получите [FocusValueAbsolut] фокуса, если кинжалы экипированы. }
 
 Talent_Daggers_RegenerateStamina { Эффективный Удар }
 
