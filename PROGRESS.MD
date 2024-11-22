@@ -65,7 +65,7 @@
 | Dialog/NPC_Berni_ru.loc | На переводе    |
 | Dialog/NPC_Bernold_ru.loc | На переводе    |
 | Dialog/NPC_Bertine_ru.loc | На переводе    |
-| Dialog/NPC_Birka_ru.loc | На переводе    |
+| Dialog/NPC_Birka_ru.loc | ✅    |
 | Dialog/NPC_Blaan_ru.loc | ✅    |
 | Dialog/NPC_Blanda_ru.loc | ✅    |
 | Dialog/NPC_Bombus_ru.loc | ✅    |
