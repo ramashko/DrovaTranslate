@@ -63,8 +63,8 @@
 | Dialog/NPC_Banner_ru.loc | ✅    |
 | Dialog/NPC_Bardok_ru.loc | ✅    |
 | Dialog/NPC_Berni_ru.loc | На переводе    |
-| Dialog/NPC_Bernold_ru.loc | На переводе    |
-| Dialog/NPC_Bertine_ru.loc | На переводе    |
+| Dialog/NPC_Bernold_ru.loc | ✅    |
+| Dialog/NPC_Bertine_ru.loc | ✅    |
 | Dialog/NPC_Birka_ru.loc | ✅    |
 | Dialog/NPC_Blaan_ru.loc | ✅    |
 | Dialog/NPC_Blanda_ru.loc | ✅    |
@@ -76,8 +76,8 @@
 | Dialog/NPC_Boris_ru.loc | ✅    |
 | Dialog/NPC_Bruna_ru.loc | Машинный перевод    |
 | Dialog/NPC_Caspara_ru.loc | ✅    |
-| Dialog/NPC_Cengiz_ru.loc | На переводе    |
-| Dialog/NPC_Chunnaic_ru.loc | Машинный перевод    |
+| Dialog/NPC_Cengiz_ru.loc | ✅    |
+| Dialog/NPC_Chunnaic_ru.loc | ✅    |
 | Dialog/NPC_Conor_ru.loc | ✅    |
 | Dialog/NPC_Cord_ru.loc | ✅    |
 | Dialog/NPC_Cuna_ru.loc | ✅    |
@@ -104,7 +104,7 @@
 | Dialog/NPC_Ester_ru.loc | Машинный перевод    |
 | Dialog/NPC_Etzel_ru.loc | ✅    |
 | Dialog/NPC_Eugen_ru.loc | ✅    |
-| Dialog/NPC_Evi_ru.loc | Машинный перевод    |
+| Dialog/NPC_Evi_ru.loc | На переводе    |
 | Dialog/NPC_Faol_ru.loc | Машинный перевод    |
 | Dialog/NPC_Farina_ru.loc | ✅    |
 | Dialog/NPC_Farlan_ru.loc | Машинный перевод    |
@@ -152,7 +152,7 @@
 | Dialog/NPC_Jarmon_ru.loc | ✅    |
 | Dialog/NPC_Jean_ru.loc | ✅    |
 | Dialog/NPC_Jendra_ru.loc | Машинный перевод    |
-| Dialog/NPC_Jendrik_ru.loc | Машинный перевод    |
+| Dialog/NPC_Jendrik_ru.loc | На переводе    |
 | Dialog/NPC_Jennifer_ru.loc | ✅    |
 | Dialog/NPC_Jero_ru.loc | Машинный перевод    |
 | Dialog/NPC_Jerzy_ru.loc | ✅    |
@@ -176,9 +176,9 @@
 | Dialog/NPC_Kessia_ru.loc | ✅    |
 | Dialog/NPC_Kilian_ru.loc | Машинный перевод    |
 | Dialog/NPC_Kolina_ru.loc | ✅    |
-| Dialog/NPC_Kora_ru.loc | Машинный перевод    |
+| Dialog/NPC_Kora_ru.loc | На переводе    |
 | Dialog/NPC_Lanzo_ru.loc | ✅    |
-| Dialog/NPC_Larea_ru.loc | Машинный перевод    |
+| Dialog/NPC_Larea_ru.loc | На переводе    |
 | Dialog/NPC_Laric_ru.loc | Машинный перевод    |
 | Dialog/NPC_Laudine_ru.loc | Машинный перевод    |
 | Dialog/NPC_Laurin_ru.loc | Машинный перевод    |
