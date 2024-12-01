@@ -6,7 +6,7 @@
 | Dialog/Corpses/Anselm_ru.loc            | ✅    |
 | Dialog/Corpses/Baldo_ru.loc             | ✅    |
 | Dialog/Corpses/CityDungeon_0_ru.loc     | ✅    |
-| Dialog/Corpses/Cobweb_Wall_ru.loc       | ✅    |
+| Dialog/Corpses/Cobweb_Wall_ru.loc       | ✅     |
 | Dialog/Corpses/Fleur_ru.loc              | ✅    |
 | Dialog/Corpses/Generic_ru.loc            | ✅    |
 | Dialog/Footprint/HumanFight_ru.loc       | ✅    |
