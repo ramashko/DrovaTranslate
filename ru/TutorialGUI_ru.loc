@@ -1,78 +1,78 @@
-Title { Tutorials }
+Title { Обучение }
 
-IsTrader { Merchant }
+IsTrader { Торговец }
 
-Category_Basics { Basics }
+Category_Basics { Основы }
 
-Category_Journal { Journal }
+Category_Journal { Журнал }
 
-Category_Combat { Combat }
+Category_Combat { Бой }
 
-Category_Items { Items }
+Category_Items { Предметы }
 
-Name_Movement { Movement }
+Name_Movement { Передвижение }
 
-Name_Perception_01 { Investigation Mode: Look Around }
+Name_Perception_01 { Режим исследования: Осмотр }
 
-Name_Perception_02 { Investigation Mode: Uncover }
+Name_Perception_02 { Режим исследования: Обнаружение }
 
-Name_Perception_03 { Investigation Mode: Examine }
+Name_Perception_03 { Режим исследования: Изучение }
 
-Name_Interact { Interaction }
+Name_Interact { Взаимодействие }
 
-Name_Stealing { Stealing }
+Name_Stealing { Воровство }
 
-Name_Crafting { Crafting }
+Name_Crafting { Ремесло }
 
-Name_LevelUp { Leveling Up }
+Name_LevelUp { Повышение уровня }
 
-Name_ChangeStance { Change Stance }
+Name_ChangeStance { Изменение стойки }
 
-Name_StatusEffects { Afflictions }
+Name_StatusEffects { Состояния }
 
-Name_UsedHealItem { Healing }
+Name_UsedHealItem { Лечение }
 
-Name_Journal { Journal Entries }
+Name_Journal { Записи в журнале }
 
-Name_FirstNote { Notes }
+Name_FirstNote { Заметки }
 
-Name_FirstTreasure { Treasure Maps }
+Name_FirstTreasure { Карты сокровищ }
 
-Name_Dodge { Dodge }
+Name_Dodge { Уклонение }
 
-Name_SecondWeapon { Switch Weapon }
+Name_SecondWeapon { Смена оружия }
 
-Name_Abilities_02 { Abilities }
+Name_Abilities_02 { Способности }
 
-Name_BattleBuddies_Blocks { Block }
+Name_BattleBuddies_Blocks { Блоки }
 
-Name_BattleBuddies_Combos { Combos }
+Name_BattleBuddies_Combos { Комбинации }
 
-Name_BattleBuddies_GetFlow { Focus }
+Name_BattleBuddies_GetFlow { Фокус }
 
-Name_BattleBuddies_Spell { Spells }
+Name_BattleBuddies_Spell { Заклинания }
 
-Name_NeedMunition { Ammunition }
+Name_NeedMunition { Боеприпасы }
 
-Name_Secondaries { Off-Hand Actions }
+Name_Secondaries { Действия вне боя }
 
-Name_PoiseBreak { Stance }
+Name_PoiseBreak { Стойка }
 
-Name_LookDirectionCombat { Line of Sight in Combat }
+Name_LookDirectionCombat { Линия обзора в бою }
 
-Name_FirstHeal { Healing }
+Name_FirstHeal { Лечение }
 
-Name_FirstFood { Food }
+Name_FirstFood { Еда }
 
-Name_FirstGoodFood { Rich Food }
+Name_FirstGoodFood { Богатая еда }
 
-Name_FirstWeapon { Weapon Types }
+Name_FirstWeapon { Типы оружия }
 
-Name_FirstRangeWeapon { Ranged Weapons }
+Name_FirstRangeWeapon { Дальнобойное оружие }
 
-Name_FirstConsFlow { Scrolls }
+Name_FirstConsFlow { Свитки }
 
-Name_FirstThrow { Consumables }
+Name_FirstThrow { Расходники }
 
-Name_FistRecipe { Recipes }
+Name_FistRecipe { Рецепты }
 
