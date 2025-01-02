@@ -402,7 +402,7 @@ MorvinAliases { Антониус Проксимус }
 
 WaterBarrel { Бочка с водой }
 
-FriedelsTable { Рыба Фриделя }
+FriedelsTable { Стол Фриделя }
 
 Ada_Normal { Ада }
 
@@ -570,7 +570,7 @@ Boar { Кабан }
 
 Fox { Рыжая Лыса }
 
-Stalker_Red { Красный Щелкун }
+Stalker_Red { Щелкун }
 
 Stalker_Blue { Синий Щелкун }
 
@@ -628,8 +628,12 @@ Draugr_Spear { Воин Прошедших }
 
 Draugr_Mage { Маг Прошедших }
 
-Draugr_Axe { Генерал Прошедших }
+Draugr_Axe { Берсерк Прошедших }
 
 Rat { Крыса }
 
 Snake { Гадюка }
+
+Draugr_Axe_Legendary { Генерал Прошедших }
+
+Draugr_Dagger { Убийца Прошедших }
