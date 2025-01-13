@@ -528,7 +528,7 @@ misc_riddle_sundial_name { Фигурка Барана }
 
 misc_riddle_mirror_name { Зеркало }
 
-misc_riddle_incense_name { Кадило }
+misc_riddle_incense_name { Курильница для благовоний }
 
 misc_riddle_horn_name { Рог }
 
@@ -1304,7 +1304,7 @@ recipe_flow_conflagration_name { Заклинание: Пламя }
 
 recipe_flow_dash_name { Способность: Рывок }
 
-recipe_flow_energyProjectile_name { Заклинание: Энергетический Выстрел}
+recipe_flow_energyProjectile_name { Заклинание: Магическая Ракета}
 
 recipe_flow_execute_name { Способность: Кровавое безумие }
 
@@ -2020,7 +2020,7 @@ item_ironore_description { Нужно переплавить в печи. }
 
 item_trinket_pureDmg_name { Месть Ремесленника }
 
-item_trinket_pureDmg_description { Увеличивает урон наносимый ловушками и метательным на 100%. }
+item_trinket_pureDmg_description { Увеличивает урон наносимый ловушками и метательным на [DamageValuePercent]. }
 
 item_VoragoFragment_0_name { Фрагмент Эмблемы }
 
