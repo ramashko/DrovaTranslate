@@ -1258,7 +1258,7 @@ item_sealstone_past_description { Изысканно украшенный кам
 
 item_brutus_seal_inactive_name { Неактивная Печать Дриваниуса }
 
-item_brutus_seal_inactive_description { Не все встроенные кристаллы в семи отверстиях активны. }
+item_brutus_seal_inactive_description { Из семи встроенных кристаллов пока светится только $GVAR:QuestVars_Brutus.ActivateShrine$. }
 
 item_shell_01_name { Моллюск }
 
