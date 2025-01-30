@@ -83,7 +83,7 @@
 | Dialog/NPC_Cuna_ru.loc | ✅    |
 | Dialog/NPC_Dalin_ru.loc | ✅    |
 | Dialog/NPC_Dark_ru.loc | ✅    |
-| Dialog/NPC_Darwin_ru.loc | Машинный перевод    |
+| Dialog/NPC_Darwin_ru.loc | ✅    |
 | Dialog/NPC_Delani_ru.loc | ✅    |
 | Dialog/NPC_Der Ripper_ru.loc | ✅    |
 | Dialog/NPC_Diemo_ru.loc | ✅    |
