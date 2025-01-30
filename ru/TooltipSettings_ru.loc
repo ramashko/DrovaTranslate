@@ -123,3 +123,5 @@ strength_value { Сила [VALUE] }
 dex_value { Ловкость [VALUE] }
 
 mind_value { Разум [VALUE] }
+
+trinket_equipable { Даже если у вас есть несколько идентичных предметов, единовременно вы можете экипировать только один. }
